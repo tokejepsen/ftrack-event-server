@@ -1,0 +1,248 @@
+2015-03-13 09:09:06,434 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:09:06,551 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-03-13 09:19:17,105 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:19:17,112 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:19:29,161 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'7c4cf0977edc4fc898c9ab4f74b25002', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'644f67a684294182a6364ba9ad8784fa', 'inReplyToEvent': None}>
+2015-03-13 09:20:05,619 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:20:05,624 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:20:17,634 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'7c4cf0977edc4fc898c9ab4f74b25002', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'2f3267e9a7db49ea97beb393f7109e6d', 'inReplyToEvent': None}>
+2015-03-13 09:20:49,279 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:20:49,280 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:21:01,525 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <component('{'container_id': None, 'name': 'Deadline_Output_0', 'filetype': '.mov', 'entityType': 'component', 'version_id': '80eae19c-c961-11e4-b5d2-040112b6a801', 'system_type': 'file', 'entityId': 'ab463efa-c961-11e4-b5d2-040112b6a801', 'id': 'ab463efa-c961-11e4-b5d2-040112b6a801', 'size': 3343846}')>
+2015-03-13 09:21:19,790 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:21:19,796 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:21:27,285 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T09:15:33' at 2cd1f08>, 'versionid': '80eae19c-c961-11e4-b5d2-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': '80eae19c-c961-11e4-b5d2-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 09:21:27,286 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 09:21:27,823 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '63648cc6a7844c14938465d05c08c937'} subscription=topic=deadline.component.upload> for event <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'7c4cf0977edc4fc898c9ab4f74b25002', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'd78a9dab9c114f6eb4fa0a608417646d', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 38, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 32, in callback
+    ftrack.Review.makeReviewable(version, c.getFilesystemPath())
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 326, in makeReviewable
+    Review._uploadToS3Url(filePath, response.get('url'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 280, in _uploadToS3Url
+    urllib2.urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 126, in urlopen
+    return _opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 400, in open
+    response = self._open(req, data)
+  File "C:\Python27\lib\urllib2.py", line 418, in _open
+    '_open', req)
+  File "C:\Python27\lib\urllib2.py", line 378, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 1215, in https_open
+    return self.do_open(httplib.HTTPSConnection, req)
+  File "C:\Python27\lib\urllib2.py", line 1177, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10054] An existing connection was forcibly closed by the remote host>
+2015-03-13 09:21:35,447 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:21:35,453 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:21:41,494 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T09:15:33' at 2cd5208>, 'versionid': '80eae19c-c961-11e4-b5d2-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': '80eae19c-c961-11e4-b5d2-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 09:21:41,496 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 09:21:42,905 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'a8179d28babe49348b27b7e8e4d157ca'} subscription=topic=deadline.component.upload> for event <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'7c4cf0977edc4fc898c9ab4f74b25002', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'9b3469e9d8b4460d96d774a221dd230d', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 39, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 33, in callback
+    ftrack.Review.makeReviewable(version, c.getFilesystemPath())
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 326, in makeReviewable
+    Review._uploadToS3Url(filePath, response.get('url'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 280, in _uploadToS3Url
+    urllib2.urlopen(request)
+  File "C:\Python27\lib\urllib2.py", line 126, in urlopen
+    return _opener.open(url, data, timeout)
+  File "C:\Python27\lib\urllib2.py", line 400, in open
+    response = self._open(req, data)
+  File "C:\Python27\lib\urllib2.py", line 418, in _open
+    '_open', req)
+  File "C:\Python27\lib\urllib2.py", line 378, in _call_chain
+    result = func(*args)
+  File "C:\Python27\lib\urllib2.py", line 1215, in https_open
+    return self.do_open(httplib.HTTPSConnection, req)
+  File "C:\Python27\lib\urllib2.py", line 1177, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10054] An existing connection was forcibly closed by the remote host>
+2015-03-13 09:55:36,042 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-03-13 09:56:09,635 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-03-13 09:56:10,309 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:56:26,161 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '5660e0e91e514365bda038e870a1e7d2'} subscription=topic=deadline.component.upload> for event <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'7c4cf0977edc4fc898c9ab4f74b25002', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'bde46d3d6fb34d8f90e23af4d2c6ede9', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 39, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 29, in callback
+    log.info(version)
+NameError: global name 'log' is not defined
+2015-03-13 09:56:48,660 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:56:48,664 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 09:57:01,190 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T09:15:33' at 2ce8d08>, 'versionid': '80eae19c-c961-11e4-b5d2-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': '989ef47c-c966-11e4-b5d2-040112b6a801', 'entityId': '80eae19c-c961-11e4-b5d2-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 09:57:01,190 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: \attachment\get?attachmentid=s3:82fd3ee4-c966-11e4-b7b7-040112b6a801.webm
+2015-03-13 09:57:01,210 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '4a571fdd4961474d828e87dd965a39ee'} subscription=topic=deadline.component.upload> for event <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'7c4cf0977edc4fc898c9ab4f74b25002', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'47f0890c7d8645f694342cd83b59d1c0', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 40, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 33, in callback
+    ftrack.Review.makeReviewable(version, c.getFilesystemPath())
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 324, in makeReviewable
+    response = Review._getSignedUrl(filePath=filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 243, in _getSignedUrl
+    fileName, fileSize, mimeType, checksum = Review._getFilePathData(filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 218, in _getFilePathData
+    raise FTrackError('Could not determine file size')
+FTrackError: Could not determine file size
+2015-03-13 09:57:47,734 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T09:15:33' at 2dff508>, 'versionid': '80eae19c-c961-11e4-b5d2-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': '989ef47c-c966-11e4-b5d2-040112b6a801', 'entityId': '80eae19c-c961-11e4-b5d2-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 09:57:47,736 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: \attachment\get?attachmentid=s3:82fd3ee4-c966-11e4-b7b7-040112b6a801.webm
+2015-03-13 09:57:47,736 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '4a571fdd4961474d828e87dd965a39ee'} subscription=topic=deadline.component.upload> for event <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'9d40b46b88774ea69bce1affe8459390', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'636e613e3ad6408fb9ccfc77370eacee', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 40, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 33, in callback
+    ftrack.Review.makeReviewable(version, c.getFilesystemPath())
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 324, in makeReviewable
+    response = Review._getSignedUrl(filePath=filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 243, in _getSignedUrl
+    fileName, fileSize, mimeType, checksum = Review._getFilePathData(filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 218, in _getFilePathData
+    raise FTrackError('Could not determine file size')
+FTrackError: Could not determine file size
+2015-03-13 09:58:23,417 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-03-13 09:58:24,023 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:00:51,214 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-03-13 10:00:51,884 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:01:00,184 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'a8bb1a09890f4739a06d9929d99b9653', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'599c48aa9179497bbed79816a1605c87', 'inReplyToEvent': None}>
+2015-03-13 10:01:20,881 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:01:20,884 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:02:05,321 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T09:15:33' at 2d69388>, 'versionid': '80eae19c-c961-11e4-b5d2-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': '989ef47c-c966-11e4-b5d2-040112b6a801', 'entityId': '80eae19c-c961-11e4-b5d2-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:02:05,322 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: \attachment\get?attachmentid=s3:82fd3ee4-c966-11e4-b7b7-040112b6a801.mp4
+2015-03-13 10:02:05,342 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'd0b286845d0f4d61944b38cd54c9e035'} subscription=topic=deadline.component.upload> for event <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'a8bb1a09890f4739a06d9929d99b9653', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'a91a305db0e443898dc5c26c656882d2', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 40, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 33, in callback
+    ftrack.Review.makeReviewable(version, c.getFilesystemPath())
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 324, in makeReviewable
+    response = Review._getSignedUrl(filePath=filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 243, in _getSignedUrl
+    fileName, fileSize, mimeType, checksum = Review._getFilePathData(filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 218, in _getFilePathData
+    raise FTrackError('Could not determine file size')
+FTrackError: Could not determine file size
+2015-03-13 10:05:43,293 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:05:43,299 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:06:29,723 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T09:15:33' at 2d6ef88>, 'versionid': '80eae19c-c961-11e4-b5d2-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': '989ef47c-c966-11e4-b5d2-040112b6a801', 'entityId': '80eae19c-c961-11e4-b5d2-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:06:29,724 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: \attachment\get?attachmentid=s3:82fd3ee4-c966-11e4-b7b7-040112b6a801.mp4
+2015-03-13 10:06:29,726 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '8a15f5522124438fa2b71009b99484cb'} subscription=topic=deadline.component.upload> for event <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'a8bb1a09890f4739a06d9929d99b9653', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'80eae19c-c961-11e4-b5d2-040112b6a801'}, 'id': u'2f4f6b8f5da946e6af3d64db2b7e5779', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 40, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 33, in callback
+    ftrack.Review.makeReviewable(version, c.getFilesystemPath())
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 324, in makeReviewable
+    response = Review._getSignedUrl(filePath=filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 243, in _getSignedUrl
+    fileName, fileSize, mimeType, checksum = Review._getFilePathData(filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 218, in _getFilePathData
+    raise FTrackError('Could not determine file size')
+FTrackError: Could not determine file size
+2015-03-13 10:09:01,801 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:09:01,805 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:09:13,276 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: \attachment\get?attachmentid=s3:82fd3ee4-c966-11e4-b7b7-040112b6a801.mp4
+2015-03-13 10:09:13,276 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: \attachment\get?attachmentid=s3:82fd3ee4-c966-11e4-b7b7-040112b6a801.webm
+2015-03-13 10:09:13,279 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_DNxHD.mov.v001.mov
+2015-03-13 10:09:13,279 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 10:09:13,280 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_DNxHD.mov.v001.mov
+2015-03-13 10:11:01,171 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:11:01,177 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:11:08,773 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_DNxHD.mov.v001.mov
+2015-03-13 10:11:08,773 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <location('{'id': 'cb268ecc-8809-11e3-a7e2-20c9d081909b', 'name': 'ftrack.unmanaged'}')>
+2015-03-13 10:11:08,775 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: file
+2015-03-13 10:11:08,776 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: \attachment\get?attachmentid=s3:82fd3ee4-c966-11e4-b7b7-040112b6a801.mp4
+2015-03-13 10:11:08,776 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <location('{'id': 'cd41be70-8809-11e3-b98a-20c9d081909b', 'name': 'ftrack.review'}')>
+2015-03-13 10:11:08,776 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: component
+2015-03-13 10:11:08,778 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: \attachment\get?attachmentid=s3:82fd3ee4-c966-11e4-b7b7-040112b6a801.webm
+2015-03-13 10:11:08,779 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <location('{'id': 'cd41be70-8809-11e3-b98a-20c9d081909b', 'name': 'ftrack.review'}')>
+2015-03-13 10:11:08,779 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: component
+2015-03-13 10:11:08,779 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 10:11:08,780 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <location('{'id': 'cb268ecc-8809-11e3-a7e2-20c9d081909b', 'name': 'ftrack.unmanaged'}')>
+2015-03-13 10:11:08,780 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: file
+2015-03-13 10:11:08,782 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_DNxHD.mov.v001.mov
+2015-03-13 10:11:08,782 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: <location('{'id': 'cb268ecc-8809-11e3-a7e2-20c9d081909b', 'name': 'ftrack.unmanaged'}')>
+2015-03-13 10:11:08,782 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: file
+2015-03-13 10:12:16,085 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:12:16,088 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:12:52,661 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T09:15:33' at 2e7e848>, 'versionid': '80eae19c-c961-11e4-b5d2-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': '989ef47c-c966-11e4-b5d2-040112b6a801', 'entityId': '80eae19c-c961-11e4-b5d2-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:12:52,663 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 10:16:38,595 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '31e38608-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T10:14:27' at 2e88948>, 'versionid': 'baccebe6-c969-11e4-b001-040112b6a801', 'version': 2, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': 'baccebe6-c969-11e4-b001-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:16:38,595 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: Y:\projects\the_call_up_00897\renders\img_sequences\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test.img.v001.%04d.dpx
+2015-03-13 10:16:38,598 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '24fb689acc3e4314816dd0d12da13857'} subscription=topic=deadline.component.upload> for event <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'b9910f19a28f460abee6b9eb5d780a21', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'version_id': u'baccebe6-c969-11e4-b001-040112b6a801'}, 'id': u'dc1d92cdc3714706a2debbc408d938d2', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 41, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 34, in callback
+    ftrack.Review.makeReviewable(version, c.getFilesystemPath())
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 324, in makeReviewable
+    response = Review._getSignedUrl(filePath=filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 243, in _getSignedUrl
+    fileName, fileSize, mimeType, checksum = Review._getFilePathData(filePath)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\client.py", line 218, in _getFilePathData
+    raise FTrackError('Could not determine file size')
+FTrackError: Could not determine file size
+2015-03-13 10:20:28,971 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-03-13 10:20:29,552 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:23:04,852 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:23:04,858 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:25:12,759 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T10:24:39' at 2ccda08>, 'versionid': '27bf5a8a-c96b-11e4-9694-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': '27bf5a8a-c96b-11e4-9694-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:25:12,759 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 10:39:58,937 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:39:58,944 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:42:41,065 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '2c73364fa4f44cf096a28f5172a11d9b'} subscription=topic=deadline.component.upload> for event <Event {'topic': u'deadline.component.upload', 'source': {u'id': u'38b90e41d0244899aa693617204861bb', u'user': {u'username': u'toke.jepsen'}}, 'target': u'', 'sent': None, 'data': {u'path': u'Y:\\projects\\the_call_up_00897\\renders\\mov_previews\\A023C013_141117_R1L3_test\\A023C013_141117_R1L3_test_v001\\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov', u'version_id': u'9174424a-c96d-11e4-bd26-040112b6a801'}, 'id': u'ab886122cf564bd58de345464c07ba72', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 29, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py", line 16, in callback
+    path = ftrack.AssetVersion(id=event['data']['path'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 303, in action
+    return self._verifyResponse(response)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 189, in _verifyResponse
+    raise FTrackError(response['detail'])
+FTrackError: Object with id: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov and type: asset_version was not found
+2015-03-13 10:44:28,394 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:44:28,401 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:44:47,046 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T10:41:55' at 2df5648>, 'versionid': '9174424a-c96d-11e4-bd26-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': '9174424a-c96d-11e4-bd26-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:44:47,049 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 10:46:02,753 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T10:41:55' at 2df5348>, 'versionid': '9174424a-c96d-11e4-bd26-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': '9174424a-c96d-11e4-bd26-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:46:02,755 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 10:49:42,022 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T10:47:18' at 2df52c8>, 'versionid': '51aca03e-c96e-11e4-a863-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': '51aca03e-c96e-11e4-a863-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:49:42,023 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 10:51:53,960 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:51:53,961 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:52:55,660 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T10:52:09' at 2e09b88>, 'versionid': 'ff6476a2-c96e-11e4-9c04-040112b6a801', 'version': 1, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': 'ff6476a2-c96e-11e4-9c04-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:52:55,661 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 10:53:39,763 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Unloaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:53:39,767 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded dev_plugins.the_call_up.deadline_component_upload!
+2015-03-13 10:56:23,042 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '31e38608-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T10:54:38' at 2df5488>, 'versionid': '58159f56-c96f-11e4-b4ec-040112b6a801', 'version': 2, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': '58159f56-c96f-11e4-b4ec-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 10:56:23,043 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 10:56:31,480 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Uploaded Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 11:02:55,302 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Version: <asset_version('{'comment': '', 'assetid': '80d1f9ac-c961-11e4-a974-040112b6a801', 'entityType': 'asset_version', 'userid': 'b0fdb9ba-b037-11e4-ac9f-040112b6a801', 'ispublished': True, 'date': <DateTime '20150313T11:02:21' at 2e09e08>, 'versionid': '6c367eb4-c970-11e4-b4ec-040112b6a801', 'version': 2, 'taskid': 'd50947e6-c8c1-11e4-82d5-040112b6a801', 'thumbid': None, 'entityId': '6c367eb4-c970-11e4-b4ec-040112b6a801', 'statusid': '26f78e90-b1e9-11e4-840d-040112b6a801'}')>
+2015-03-13 11:02:55,302 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Path: Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov
+2015-03-13 11:03:05,134 - K:\tools\FTrack\ftrack-event-server\dev_plugins\the_call_up\deadline_component_upload.py - [INFO]: Uploaded Y:\projects\the_call_up_00897\renders\mov_previews\A023C013_141117_R1L3_test\A023C013_141117_R1L3_test_v001\A023C013_141117_R1L3_test_MPEG4.mov.v001.mov

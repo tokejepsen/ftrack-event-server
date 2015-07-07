@@ -1,0 +1,20 @@
+2015-02-18 11:04:47,654 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-18 11:05:10,760 - server - INFO - Reloaded temp
+2015-02-18 11:05:10,792 - server - INFO - Reloaded temp
+2015-02-18 11:05:36,627 - server - INFO - Reloaded temp
+2015-02-18 11:05:36,641 - server - INFO - Reloaded temp
+2015-02-18 11:06:22,187 - server - INFO - Reloaded temp
+2015-02-18 11:06:22,201 - server - INFO - Reloaded temp
+2015-02-18 11:06:27,809 - server - INFO - Reloaded temp
+2015-02-18 11:06:27,825 - server - INFO - Reloaded temp
+2015-02-18 11:07:54,434 - server - INFO - Reloaded temp
+2015-02-18 11:07:54,450 - server - INFO - Reloaded temp
+2015-02-18 11:13:13,158 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-18 11:13:52,385 - server - INFO - Reloaded temp
+2015-02-18 11:13:52,401 - server - INFO - Reloaded temp
+2015-02-18 11:13:52,401 - server - INFO - Reloaded temp
+2015-02-18 11:15:26,907 - server - INFO - Reloaded temp
+2015-02-18 11:15:26,923 - server - INFO - Reloaded temp
+2015-02-18 12:38:21,552 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-18 12:41:17,918 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-18 16:53:16,772 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>

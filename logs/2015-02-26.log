@@ -1,0 +1,1027 @@
+2015-02-26 10:03:25,160 - server - WARNING - No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:03:25,160 - server - WARNING - No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:03:25,246 - server - INFO - Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:03:25,272 - server - INFO - Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:03:25,328 - server - INFO - Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:03:25,430 - server - INFO - Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:03:25,453 - server - INFO - Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:03:25,625 - server - INFO - Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:03:25,706 - server - INFO - Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:03:25,726 - server - INFO - Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:03:25,795 - server - INFO - Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:07:34,724 - server - INFO - Unloaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:07:34,730 - server - INFO - Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:07:45,612 - server - INFO - the_call_up/sq001/tcu_008_050 updated to "Supervisor Review"
+2015-02-26 10:14:20,674 - server - server.py - No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:14:20,676 - server - server.py - No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:14:20,792 - server - server.py - Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:14:20,818 - server - server.py - Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:14:20,880 - server - server.py - Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:14:21,006 - server - server.py - Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:14:21,032 - server - server.py - Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:14:21,207 - server - server.py - Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:14:21,290 - server - server.py - Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:14:21,306 - server - server.py - Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:14:21,374 - server - server.py - Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:15:28,628 - root - server.py - No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:15:28,630 - root - server.py - No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:15:28,717 - root - server.py - Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:15:28,740 - root - server.py - Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:15:28,802 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:15:28,900 - root - server.py - Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:15:28,920 - root - server.py - Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:15:29,002 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:15:29,161 - root - server.py - Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:15:29,197 - root - server.py - Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:15:29,263 - root - server.py - Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:15:29,301 - requests.packages.urllib3.connectionpool - connectionpool.py - Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:15:33,046 - root - task_to_shot_update.py - the_call_up/sq001/tcu_008_050 updated to "Supervisor Review"
+2015-02-26 10:16:59,269 - root - server.py - No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:16:59,269 - root - server.py - No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:16:59,359 - root - server.py - Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:16:59,384 - root - server.py - Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:16:59,441 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:16:59,548 - root - server.py - Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:16:59,575 - root - server.py - Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:16:59,663 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:16:59,809 - root - server.py - Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:16:59,828 - root - server.py - Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:16:59,894 - root - server.py - Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:16:59,930 - requests.packages.urllib3.connectionpool - connectionpool.py - Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:17:09,443 - root - task_to_shot_update.py - the_call_up/sq001/tcu_008_050 updated to "Sent WIP"
+2015-02-26 10:18:19,825 - root - server.py - No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:18:19,826 - root - server.py - No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:18:19,914 - root - server.py - Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:18:19,940 - root - server.py - Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:18:20,048 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:18:20,155 - root - server.py - Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:18:20,174 - root - server.py - Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:18:20,257 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:18:20,338 - root - server.py - Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:18:20,359 - root - server.py - Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:18:20,427 - root - server.py - Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:18:20,470 - requests.packages.urllib3.connectionpool - connectionpool.py - Starting new HTTPS connection (1): bait.ftrackapp.com
+root - server.py - No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+root - server.py - No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+root - server.py - Loaded production_plugins.the_call_up.task_to_shot_update!
+root - server.py - Loaded production_plugins.the_call_up.task_shot_editing_delete!
+root - server.py - Loaded production_plugins.the_call_up.version_to_task_statuses!
+root - server.py - Loaded production_plugins.the_call_up.version_up!
+root - server.py - Loaded production_plugins.the_call_up.next_task_update!
+root - server.py - Loaded production_plugins.the_call_up.version_to_task_comp_add!
+root - server.py - Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+root - server.py - Loaded production_plugins.the_call_up.task_to_task_complete_status!
+root - server.py - Loaded production_plugins.Toot.toot_production!
+requests.packages.urllib3.connectionpool - connectionpool.py - Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:22:11,302 - root - server.py - No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:22:11,303 - root - server.py - No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:22:11,394 - root - server.py - Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:22:11,457 - root - server.py - Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:22:11,542 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:22:11,642 - root - server.py - Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:22:11,663 - root - server.py - Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:22:11,743 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:22:11,822 - root - server.py - Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:22:11,842 - root - server.py - Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:22:11,907 - root - server.py - Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:22:11,941 - requests.packages.urllib3.connectionpool - connectionpool.py - Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:23:10,203 - root - server.py - No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:23:10,204 - root - server.py - No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:23:10,290 - root - server.py - Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:23:10,315 - root - server.py - Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:23:10,371 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:23:10,469 - root - server.py - Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:23:10,489 - root - server.py - Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:23:10,569 - root - server.py - Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:23:10,727 - root - server.py - Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:23:10,746 - root - server.py - Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:23:10,811 - root - server.py - Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:23:10,845 - requests.packages.urllib3.connectionpool - connectionpool.py - Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:24:45,686 - server.py: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:24:45,686 - server.py: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:24:45,770 - server.py: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:24:45,793 - server.py: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:24:45,845 - server.py: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:24:45,947 - server.py: Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:24:45,966 - server.py: Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:24:46,043 - server.py: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:24:46,122 - server.py: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:24:46,141 - server.py: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:24:46,210 - server.py: Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:24:46,244 - connectionpool.py: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:25:53,358 - server.py: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:25:53,359 - server.py: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:25:53,517 - server.py: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:25:53,549 - server.py: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:25:53,608 - server.py: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:25:53,700 - server.py: Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:25:53,719 - server.py: Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:25:53,799 - server.py: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:25:53,882 - server.py: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:25:53,904 - server.py: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:25:53,973 - server.py: Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:25:54,013 - connectionpool.py: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:28:23,115 - server.py[WARNING]: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:28:23,115 - server.py[WARNING]: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:28:23,201 - server.py[INFO]: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:28:23,226 - server.py[INFO]: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:28:23,282 - server.py[INFO]: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:28:23,380 - server.py[INFO]: Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:28:23,400 - server.py[INFO]: Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:28:23,540 - server.py[INFO]: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:28:23,621 - server.py[INFO]: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:28:23,640 - server.py[INFO]: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:28:23,707 - server.py[INFO]: Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:28:23,743 - connectionpool.py[INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:29:01,887 - server.py[WARNING]: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:29:01,887 - server.py[WARNING]: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:29:01,974 - server.py[INFO]: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:29:02,000 - server.py[INFO]: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:29:02,055 - server.py[INFO]: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:29:02,154 - server.py[INFO]: Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:29:02,174 - server.py[INFO]: Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:29:02,256 - server.py[INFO]: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:29:02,338 - server.py[INFO]: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:29:02,358 - server.py[INFO]: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:29:02,424 - server.py[INFO]: Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:29:02,460 - connectionpool.py[INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:29:44,743 - server.py[WARNING]: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:29:44,743 - server.py[WARNING]: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:29:44,831 - server.py[INFO]: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:29:44,855 - server.py[INFO]: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:29:44,911 - server.py[INFO]: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:29:45,009 - server.py[INFO]: Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:29:45,029 - server.py[INFO]: Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:29:45,111 - server.py[INFO]: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:29:45,191 - server.py[INFO]: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:29:45,217 - server.py[INFO]: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:29:45,401 - server.py[INFO]: Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:29:45,437 - connectionpool.py[INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:30:17,976 - K:\tools\FTrack\ftrack-event-server\server.py[WARNING]: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:30:17,976 - K:\tools\FTrack\ftrack-event-server\server.py[WARNING]: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:30:18,065 - K:\tools\FTrack\ftrack-event-server\server.py[INFO]: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:30:18,091 - K:\tools\FTrack\ftrack-event-server\server.py[INFO]: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:30:18,150 - K:\tools\FTrack\ftrack-event-server\server.py[INFO]: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:30:18,286 - K:\tools\FTrack\ftrack-event-server\server.py[INFO]: Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:30:18,336 - K:\tools\FTrack\ftrack-event-server\server.py[INFO]: Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:30:18,417 - K:\tools\FTrack\ftrack-event-server\server.py[INFO]: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:30:18,497 - K:\tools\FTrack\ftrack-event-server\server.py[INFO]: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:30:18,516 - K:\tools\FTrack\ftrack-event-server\server.py[INFO]: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:30:18,581 - K:\tools\FTrack\ftrack-event-server\server.py[INFO]: Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:30:18,615 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py[INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:30:48,835 - K:\tools\FTrack\ftrack-event-server\server.py - [WARNING]: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:30:48,836 - K:\tools\FTrack\ftrack-event-server\server.py - [WARNING]: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:30:48,924 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:30:48,947 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:30:49,003 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:30:49,104 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:30:49,124 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:30:49,206 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:30:49,355 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:30:49,385 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:30:49,451 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:30:49,486 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:40:51,622 - K:\tools\FTrack\ftrack-event-server\server.py - [WARNING]: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:40:51,625 - K:\tools\FTrack\ftrack-event-server\server.py - [WARNING]: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:40:51,746 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:40:51,813 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:40:51,913 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:40:52,105 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:40:52,171 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:40:52,295 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:40:52,430 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:40:52,496 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:40:52,621 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:40:52,690 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:43:24,296 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '1f274d75580342eab17d139fc514807f'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'2297bc32-b8f0-11e3-ab8f-040112b6a801'}, u'id': u''}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'ed47a65a-bd26-11e4-9900-040112b6a801', u'entityType': u'assetversion', u'parentId': u'8faabc0a-bd06-11e4-8f21-040112b6a801'}, {u'entityId': u'8faabc0a-bd06-11e4-8f21-040112b6a801', u'entityType': u'asset', u'parentId': u'cd998172-ac8a-11e4-be8e-040112b6a801'}, {u'entityId': u'cd998172-ac8a-11e4-be8e-040112b6a801', u'entityType': u'task', u'parentId': u'd2fe4e02-ab8d-11e4-b3de-040112b6a801'}, {u'entityId': u'd2fe4e02-ab8d-11e4-b3de-040112b6a801', u'entityType': u'task', u'parentId': u'63d00fac-ab8d-11e4-800b-040112b6a801'}, {u'entityId': u'63d00fac-ab8d-11e4-800b-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'8faabc0a-bd06-11e4-8f21-040112b6a801', u'action': u'update', u'entityId': u'ed47a65a-bd26-11e4-9900-040112b6a801'}], u'pushToken': None, u'parents': [u'd2fe4e02-ab8d-11e4-b3de-040112b6a801', u'ed47a65a-bd26-11e4-9900-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801', u'8faabc0a-bd06-11e4-8f21-040112b6a801', u'63d00fac-ab8d-11e4-800b-040112b6a801', u'cd998172-ac8a-11e4-be8e-040112b6a801'], u'user': {u'userid': u'2297bc32-b8f0-11e3-ab8f-040112b6a801', u'name': u'Morgan Griffiths'}, u'clientToken': u''}, 'id': u'017f42d2db6944baa291238da06018ed', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 82, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 34, in callback
+    version = ftrack.AssetVersion(id=entity.get('entityId'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:43:24,994 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'2297bc32-b8f0-11e3-ab8f-040112b6a801'}, u'id': u''}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'ed47a65a-bd26-11e4-9900-040112b6a801', u'entityType': u'assetversion', u'parentId': u'8faabc0a-bd06-11e4-8f21-040112b6a801'}, {u'entityId': u'8faabc0a-bd06-11e4-8f21-040112b6a801', u'entityType': u'asset', u'parentId': u'cd998172-ac8a-11e4-be8e-040112b6a801'}, {u'entityId': u'cd998172-ac8a-11e4-be8e-040112b6a801', u'entityType': u'task', u'parentId': u'd2fe4e02-ab8d-11e4-b3de-040112b6a801'}, {u'entityId': u'd2fe4e02-ab8d-11e4-b3de-040112b6a801', u'entityType': u'task', u'parentId': u'63d00fac-ab8d-11e4-800b-040112b6a801'}, {u'entityId': u'63d00fac-ab8d-11e4-800b-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'8faabc0a-bd06-11e4-8f21-040112b6a801', u'action': u'update', u'entityId': u'ed47a65a-bd26-11e4-9900-040112b6a801'}], u'pushToken': None, u'parents': [u'd2fe4e02-ab8d-11e4-b3de-040112b6a801', u'ed47a65a-bd26-11e4-9900-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801', u'8faabc0a-bd06-11e4-8f21-040112b6a801', u'63d00fac-ab8d-11e4-800b-040112b6a801', u'cd998172-ac8a-11e4-be8e-040112b6a801'], u'user': {u'userid': u'2297bc32-b8f0-11e3-ab8f-040112b6a801', u'name': u'Morgan Griffiths'}, u'clientToken': u''}, 'id': u'017f42d2db6944baa291238da06018ed', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 29, in callback
+    version = ftrack.AssetVersion(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:43:50,901 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'cd58eed673de478ea1148a1756d0f8ac'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'04e6c474-e025-11e3-8120-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'comment', u'assetid', u'userid', u'ispublished', u'versionid', u'version', u'taskid', u'date', u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'5942650c-bda4-11e4-96f3-040112b6a801', u'entityType': u'assetversion', u'parentId': u'0fb255d8-ab9c-11e4-b1de-040112b6a801'}, {u'entityId': u'0fb255d8-ab9c-11e4-b1de-040112b6a801', u'entityType': u'asset', u'parentId': u'4b2ea534-a099-11e4-9cec-040112b6a801'}, {u'entityId': u'4b2ea534-a099-11e4-9cec-040112b6a801', u'entityType': u'task', u'parentId': u'a4dc9f06-9d69-11e4-a887-040112b6a801'}, {u'entityId': u'a4dc9f06-9d69-11e4-a887-040112b6a801', u'entityType': u'task', u'parentId': u'ee80ab24-9d65-11e4-8667-040112b6a801'}, {u'entityId': u'ee80ab24-9d65-11e4-8667-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'0fb255d8-ab9c-11e4-b1de-040112b6a801', u'action': u'add', u'entityId': u'5942650c-bda4-11e4-96f3-040112b6a801'}], u'pushToken': None, u'parents': [u'5942650c-bda4-11e4-96f3-040112b6a801', u'4b2ea534-a099-11e4-9cec-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801', u'a4dc9f06-9d69-11e4-a887-040112b6a801', u'ee80ab24-9d65-11e4-8667-040112b6a801', u'0fb255d8-ab9c-11e4-b1de-040112b6a801'], u'user': {u'userid': u'04e6c474-e025-11e3-8120-040112b6a801', u'name': u'Ted Oliver'}, u'clientToken': None}, 'id': u'694dacd7fe804e7cbbb3b17b16ed19cd', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_comp_add.py", line 83, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_comp_add.py", line 35, in callback
+    version = ftrack.AssetVersion(id=entity.get('entityId'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:43:51,782 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '1f274d75580342eab17d139fc514807f'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'04e6c474-e025-11e3-8120-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'ispublished'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'5942650c-bda4-11e4-96f3-040112b6a801', u'entityType': u'assetversion', u'parentId': u'0fb255d8-ab9c-11e4-b1de-040112b6a801'}, {u'entityId': u'0fb255d8-ab9c-11e4-b1de-040112b6a801', u'entityType': u'asset', u'parentId': u'4b2ea534-a099-11e4-9cec-040112b6a801'}, {u'entityId': u'4b2ea534-a099-11e4-9cec-040112b6a801', u'entityType': u'task', u'parentId': u'a4dc9f06-9d69-11e4-a887-040112b6a801'}, {u'entityId': u'a4dc9f06-9d69-11e4-a887-040112b6a801', u'entityType': u'task', u'parentId': u'ee80ab24-9d65-11e4-8667-040112b6a801'}, {u'entityId': u'ee80ab24-9d65-11e4-8667-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'0fb255d8-ab9c-11e4-b1de-040112b6a801', u'action': u'update', u'entityId': u'5942650c-bda4-11e4-96f3-040112b6a801'}], u'pushToken': None, u'parents': [u'5942650c-bda4-11e4-96f3-040112b6a801', u'4b2ea534-a099-11e4-9cec-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801', u'a4dc9f06-9d69-11e4-a887-040112b6a801', u'ee80ab24-9d65-11e4-8667-040112b6a801', u'0fb255d8-ab9c-11e4-b1de-040112b6a801'], u'user': {u'userid': u'04e6c474-e025-11e3-8120-040112b6a801', u'name': u'Ted Oliver'}, u'clientToken': None}, 'id': u'6b57c382b691461dbd0f4dfdcc81927e', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 82, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 34, in callback
+    version = ftrack.AssetVersion(id=entity.get('entityId'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:43:53,010 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '1f274d75580342eab17d139fc514807f'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'04e6c474-e025-11e3-8120-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'thumbid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'5942650c-bda4-11e4-96f3-040112b6a801', u'entityType': u'assetversion', u'parentId': u'0fb255d8-ab9c-11e4-b1de-040112b6a801'}, {u'entityId': u'0fb255d8-ab9c-11e4-b1de-040112b6a801', u'entityType': u'asset', u'parentId': u'4b2ea534-a099-11e4-9cec-040112b6a801'}, {u'entityId': u'4b2ea534-a099-11e4-9cec-040112b6a801', u'entityType': u'task', u'parentId': u'a4dc9f06-9d69-11e4-a887-040112b6a801'}, {u'entityId': u'a4dc9f06-9d69-11e4-a887-040112b6a801', u'entityType': u'task', u'parentId': u'ee80ab24-9d65-11e4-8667-040112b6a801'}, {u'entityId': u'ee80ab24-9d65-11e4-8667-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'0fb255d8-ab9c-11e4-b1de-040112b6a801', u'action': u'update', u'entityId': u'5942650c-bda4-11e4-96f3-040112b6a801'}], u'pushToken': None, u'parents': [u'5942650c-bda4-11e4-96f3-040112b6a801', u'4b2ea534-a099-11e4-9cec-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801', u'a4dc9f06-9d69-11e4-a887-040112b6a801', u'ee80ab24-9d65-11e4-8667-040112b6a801', u'0fb255d8-ab9c-11e4-b1de-040112b6a801'], u'user': {u'userid': u'04e6c474-e025-11e3-8120-040112b6a801', u'name': u'Ted Oliver'}, u'clientToken': None}, 'id': u'95900586a45040cfab68dbb976b8b2d1', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 82, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 34, in callback
+    version = ftrack.AssetVersion(id=entity.get('entityId'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:44:16,865 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '1f274d75580342eab17d139fc514807f'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'6b4a7244-4883-11e4-85e5-040112b6a801'}, u'id': u'9996654a-bd95-11e4-9900-040112b6a801'}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'statusid'], u'entityType': u'task', u'parents': [{u'entityId': u'c81b05a8-97f0-11e4-a0a0-040112b6a801', u'entityType': u'task', u'parentId': u'70af0afe-97ef-11e4-985c-040112b6a801'}, {u'entityId': u'70af0afe-97ef-11e4-985c-040112b6a801', u'entityType': u'task', u'parentId': u'8cb34ddc-971d-11e4-aa6b-040112b6a801'}, {u'entityId': u'8cb34ddc-971d-11e4-aa6b-040112b6a801', u'entityType': u'task', u'parentId': u'30fa4176-971d-11e4-9eda-040112b6a801'}, {u'entityId': u'30fa4176-971d-11e4-9eda-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'70af0afe-97ef-11e4-985c-040112b6a801', u'action': u'update', u'entityId': u'c81b05a8-97f0-11e4-a0a0-040112b6a801'}, {u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'e6fcbbfa-bd30-11e4-9992-040112b6a801', u'entityType': u'assetversion', u'parentId': u'cf558686-a862-11e4-8042-040112b6a801'}, {u'entityId': u'cf558686-a862-11e4-8042-040112b6a801', u'entityType': u'asset', u'parentId': u'70af0afe-97ef-11e4-985c-040112b6a801'}, {u'entityId': u'70af0afe-97ef-11e4-985c-040112b6a801', u'entityType': u'task', u'parentId': u'8cb34ddc-971d-11e4-aa6b-040112b6a801'}, {u'entityId': u'8cb34ddc-971d-11e4-aa6b-040112b6a801', u'entityType': u'task', u'parentId': u'30fa4176-971d-11e4-9eda-040112b6a801'}, {u'entityId': u'30fa4176-971d-11e4-9eda-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'cf558686-a862-11e4-8042-040112b6a801', u'action': u'update', u'entityId': u'e6fcbbfa-bd30-11e4-9992-040112b6a801'}, {u'keys': [u'statusid'], u'entityType': u'task', u'parents': [{u'entityId': u'06dfb67a-811d-11e4-810d-040112b6a801', u'entityType': u'task', u'parentId': u'33aed1e6-811c-11e4-8e0c-040112b6a801'}, {u'entityId': u'33aed1e6-811c-11e4-8e0c-040112b6a801', u'entityType': u'task', u'parentId': u'2bbb708a-8062-11e4-8d84-040112b6a801'}, {u'entityId': u'2bbb708a-8062-11e4-8d84-040112b6a801', u'entityType': u'task', u'parentId': u'eb1970d6-8061-11e4-953a-040112b6a801'}, {u'entityId': u'eb1970d6-8061-11e4-953a-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'33aed1e6-811c-11e4-8e0c-040112b6a801', u'action': u'update', u'entityId': u'06dfb67a-811d-11e4-810d-040112b6a801'}, {u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'030a82ce-bcf4-11e4-95c2-040112b6a801', u'entityType': u'assetversion', u'parentId': u'b956ac6c-9c0e-11e4-8a81-040112b6a801'}, {u'entityId': u'b956ac6c-9c0e-11e4-8a81-040112b6a801', u'entityType': u'asset', u'parentId': u'33aed1e6-811c-11e4-8e0c-040112b6a801'}, {u'entityId': u'33aed1e6-811c-11e4-8e0c-040112b6a801', u'entityType': u'task', u'parentId': u'2bbb708a-8062-11e4-8d84-040112b6a801'}, {u'entityId': u'2bbb708a-8062-11e4-8d84-040112b6a801', u'entityType': u'task', u'parentId': u'eb1970d6-8061-11e4-953a-040112b6a801'}, {u'entityId': u'eb1970d6-8061-11e4-953a-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'b956ac6c-9c0e-11e4-8a81-040112b6a801', u'action': u'update', u'entityId': u'030a82ce-bcf4-11e4-95c2-040112b6a801'}], u'pushToken': u'9a7cb5aebd9511e49444040112b6a801', u'parents': [u'e6fcbbfa-bd30-11e4-9992-040112b6a801', u'787fbfb4-26af-11e4-a83a-040112b6a801', u'7e6bc696-ba6e-11e3-b2f5-040112b6a801', u'30fa4176-971d-11e4-9eda-040112b6a801', u'33aed1e6-811c-11e4-8e0c-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801', u'70af0afe-97ef-11e4-985c-040112b6a801', u'cf558686-a862-11e4-8042-040112b6a801', u'06dfb67a-811d-11e4-810d-040112b6a801', u'eb1970d6-8061-11e4-953a-040112b6a801', u'030a82ce-bcf4-11e4-95c2-040112b6a801', u'2bbb708a-8062-11e4-8d84-040112b6a801', u'8cb34ddc-971d-11e4-aa6b-040112b6a801', u'b956ac6c-9c0e-11e4-8a81-040112b6a801', u'c81b05a8-97f0-11e4-a0a0-040112b6a801'], u'user': {u'userid': u'6b4a7244-4883-11e4-85e5-040112b6a801', u'name': u'Julia Coles'}, u'clientToken': u'9996654a-bd95-11e4-9900-040112b6a801'}, 'id': u'e8741e4ebe294b62b5464450c36d886f', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 82, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 34, in callback
+    version = ftrack.AssetVersion(id=entity.get('entityId'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:44:19,811 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'6b4a7244-4883-11e4-85e5-040112b6a801'}, u'id': u'9996654a-bd95-11e4-9900-040112b6a801'}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'statusid'], u'entityType': u'task', u'parents': [{u'entityId': u'c81b05a8-97f0-11e4-a0a0-040112b6a801', u'entityType': u'task', u'parentId': u'70af0afe-97ef-11e4-985c-040112b6a801'}, {u'entityId': u'70af0afe-97ef-11e4-985c-040112b6a801', u'entityType': u'task', u'parentId': u'8cb34ddc-971d-11e4-aa6b-040112b6a801'}, {u'entityId': u'8cb34ddc-971d-11e4-aa6b-040112b6a801', u'entityType': u'task', u'parentId': u'30fa4176-971d-11e4-9eda-040112b6a801'}, {u'entityId': u'30fa4176-971d-11e4-9eda-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'70af0afe-97ef-11e4-985c-040112b6a801', u'action': u'update', u'entityId': u'c81b05a8-97f0-11e4-a0a0-040112b6a801'}, {u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'e6fcbbfa-bd30-11e4-9992-040112b6a801', u'entityType': u'assetversion', u'parentId': u'cf558686-a862-11e4-8042-040112b6a801'}, {u'entityId': u'cf558686-a862-11e4-8042-040112b6a801', u'entityType': u'asset', u'parentId': u'70af0afe-97ef-11e4-985c-040112b6a801'}, {u'entityId': u'70af0afe-97ef-11e4-985c-040112b6a801', u'entityType': u'task', u'parentId': u'8cb34ddc-971d-11e4-aa6b-040112b6a801'}, {u'entityId': u'8cb34ddc-971d-11e4-aa6b-040112b6a801', u'entityType': u'task', u'parentId': u'30fa4176-971d-11e4-9eda-040112b6a801'}, {u'entityId': u'30fa4176-971d-11e4-9eda-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'cf558686-a862-11e4-8042-040112b6a801', u'action': u'update', u'entityId': u'e6fcbbfa-bd30-11e4-9992-040112b6a801'}, {u'keys': [u'statusid'], u'entityType': u'task', u'parents': [{u'entityId': u'06dfb67a-811d-11e4-810d-040112b6a801', u'entityType': u'task', u'parentId': u'33aed1e6-811c-11e4-8e0c-040112b6a801'}, {u'entityId': u'33aed1e6-811c-11e4-8e0c-040112b6a801', u'entityType': u'task', u'parentId': u'2bbb708a-8062-11e4-8d84-040112b6a801'}, {u'entityId': u'2bbb708a-8062-11e4-8d84-040112b6a801', u'entityType': u'task', u'parentId': u'eb1970d6-8061-11e4-953a-040112b6a801'}, {u'entityId': u'eb1970d6-8061-11e4-953a-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'33aed1e6-811c-11e4-8e0c-040112b6a801', u'action': u'update', u'entityId': u'06dfb67a-811d-11e4-810d-040112b6a801'}, {u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'030a82ce-bcf4-11e4-95c2-040112b6a801', u'entityType': u'assetversion', u'parentId': u'b956ac6c-9c0e-11e4-8a81-040112b6a801'}, {u'entityId': u'b956ac6c-9c0e-11e4-8a81-040112b6a801', u'entityType': u'asset', u'parentId': u'33aed1e6-811c-11e4-8e0c-040112b6a801'}, {u'entityId': u'33aed1e6-811c-11e4-8e0c-040112b6a801', u'entityType': u'task', u'parentId': u'2bbb708a-8062-11e4-8d84-040112b6a801'}, {u'entityId': u'2bbb708a-8062-11e4-8d84-040112b6a801', u'entityType': u'task', u'parentId': u'eb1970d6-8061-11e4-953a-040112b6a801'}, {u'entityId': u'eb1970d6-8061-11e4-953a-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'b956ac6c-9c0e-11e4-8a81-040112b6a801', u'action': u'update', u'entityId': u'030a82ce-bcf4-11e4-95c2-040112b6a801'}], u'pushToken': u'9a7cb5aebd9511e49444040112b6a801', u'parents': [u'e6fcbbfa-bd30-11e4-9992-040112b6a801', u'787fbfb4-26af-11e4-a83a-040112b6a801', u'7e6bc696-ba6e-11e3-b2f5-040112b6a801', u'30fa4176-971d-11e4-9eda-040112b6a801', u'33aed1e6-811c-11e4-8e0c-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801', u'70af0afe-97ef-11e4-985c-040112b6a801', u'cf558686-a862-11e4-8042-040112b6a801', u'06dfb67a-811d-11e4-810d-040112b6a801', u'eb1970d6-8061-11e4-953a-040112b6a801', u'030a82ce-bcf4-11e4-95c2-040112b6a801', u'2bbb708a-8062-11e4-8d84-040112b6a801', u'8cb34ddc-971d-11e4-aa6b-040112b6a801', u'b956ac6c-9c0e-11e4-8a81-040112b6a801', u'c81b05a8-97f0-11e4-a0a0-040112b6a801'], u'user': {u'userid': u'6b4a7244-4883-11e4-85e5-040112b6a801', u'name': u'Julia Coles'}, u'clientToken': u'9996654a-bd95-11e4-9900-040112b6a801'}, 'id': u'e8741e4ebe294b62b5464450c36d886f', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 29, in callback
+    version = ftrack.AssetVersion(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:45:36,433 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '1f274d75580342eab17d139fc514807f'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'2297bc32-b8f0-11e3-ab8f-040112b6a801'}, u'id': u''}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'c31541fe-bda2-11e4-8f7d-040112b6a801', u'entityType': u'assetversion', u'parentId': u'f32ace16-b81d-11e4-930a-040112b6a801'}, {u'entityId': u'f32ace16-b81d-11e4-930a-040112b6a801', u'entityType': u'asset', u'parentId': u'013f95a2-a7d1-11e4-82c0-040112b6a801'}, {u'entityId': u'013f95a2-a7d1-11e4-82c0-040112b6a801', u'entityType': u'task', u'parentId': u'917b9362-a701-11e4-97f7-040112b6a801'}, {u'entityId': u'917b9362-a701-11e4-97f7-040112b6a801', u'entityType': u'task', u'parentId': u'a2f289b2-a6fb-11e4-8f53-040112b6a801'}, {u'entityId': u'a2f289b2-a6fb-11e4-8f53-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'f32ace16-b81d-11e4-930a-040112b6a801', u'action': u'update', u'entityId': u'c31541fe-bda2-11e4-8f7d-040112b6a801'}], u'pushToken': None, u'parents': [u'c31541fe-bda2-11e4-8f7d-040112b6a801', u'917b9362-a701-11e4-97f7-040112b6a801', u'013f95a2-a7d1-11e4-82c0-040112b6a801', u'a2f289b2-a6fb-11e4-8f53-040112b6a801', u'f32ace16-b81d-11e4-930a-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801'], u'user': {u'userid': u'2297bc32-b8f0-11e3-ab8f-040112b6a801', u'name': u'Morgan Griffiths'}, u'clientToken': u''}, 'id': u'db93fe905c494ed582c54533c5b4eb9a', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 82, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 34, in callback
+    version = ftrack.AssetVersion(id=entity.get('entityId'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:45:38,063 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'2297bc32-b8f0-11e3-ab8f-040112b6a801'}, u'id': u''}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'c31541fe-bda2-11e4-8f7d-040112b6a801', u'entityType': u'assetversion', u'parentId': u'f32ace16-b81d-11e4-930a-040112b6a801'}, {u'entityId': u'f32ace16-b81d-11e4-930a-040112b6a801', u'entityType': u'asset', u'parentId': u'013f95a2-a7d1-11e4-82c0-040112b6a801'}, {u'entityId': u'013f95a2-a7d1-11e4-82c0-040112b6a801', u'entityType': u'task', u'parentId': u'917b9362-a701-11e4-97f7-040112b6a801'}, {u'entityId': u'917b9362-a701-11e4-97f7-040112b6a801', u'entityType': u'task', u'parentId': u'a2f289b2-a6fb-11e4-8f53-040112b6a801'}, {u'entityId': u'a2f289b2-a6fb-11e4-8f53-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'f32ace16-b81d-11e4-930a-040112b6a801', u'action': u'update', u'entityId': u'c31541fe-bda2-11e4-8f7d-040112b6a801'}], u'pushToken': None, u'parents': [u'c31541fe-bda2-11e4-8f7d-040112b6a801', u'917b9362-a701-11e4-97f7-040112b6a801', u'013f95a2-a7d1-11e4-82c0-040112b6a801', u'a2f289b2-a6fb-11e4-8f53-040112b6a801', u'f32ace16-b81d-11e4-930a-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801'], u'user': {u'userid': u'2297bc32-b8f0-11e3-ab8f-040112b6a801', u'name': u'Morgan Griffiths'}, u'clientToken': u''}, 'id': u'db93fe905c494ed582c54533c5b4eb9a', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 29, in callback
+    version = ftrack.AssetVersion(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:47:42,747 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '1f274d75580342eab17d139fc514807f'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'2297bc32-b8f0-11e3-ab8f-040112b6a801'}, u'id': u''}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'b5eefd64-bd0a-11e4-b143-040112b6a801', u'entityType': u'assetversion', u'parentId': u'b5e4ea48-bb4f-11e4-ae4b-040112b6a801'}, {u'entityId': u'b5e4ea48-bb4f-11e4-ae4b-040112b6a801', u'entityType': u'asset', u'parentId': u'c3cbf7de-ac89-11e4-9f6d-040112b6a801'}, {u'entityId': u'c3cbf7de-ac89-11e4-9f6d-040112b6a801', u'entityType': u'task', u'parentId': u'93d70a8e-ab8d-11e4-9089-040112b6a801'}, {u'entityId': u'93d70a8e-ab8d-11e4-9089-040112b6a801', u'entityType': u'task', u'parentId': u'63d00fac-ab8d-11e4-800b-040112b6a801'}, {u'entityId': u'63d00fac-ab8d-11e4-800b-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'b5e4ea48-bb4f-11e4-ae4b-040112b6a801', u'action': u'update', u'entityId': u'b5eefd64-bd0a-11e4-b143-040112b6a801'}], u'pushToken': None, u'parents': [u'b5eefd64-bd0a-11e4-b143-040112b6a801', u'c3cbf7de-ac89-11e4-9f6d-040112b6a801', u'93d70a8e-ab8d-11e4-9089-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801', u'b5e4ea48-bb4f-11e4-ae4b-040112b6a801', u'63d00fac-ab8d-11e4-800b-040112b6a801'], u'user': {u'userid': u'2297bc32-b8f0-11e3-ab8f-040112b6a801', u'name': u'Morgan Griffiths'}, u'clientToken': u''}, 'id': u'13963253ac49417b9a56222e18799981', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 82, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py", line 34, in callback
+    version = ftrack.AssetVersion(id=entity.get('entityId'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:47:43,187 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'2297bc32-b8f0-11e3-ab8f-040112b6a801'}, u'id': u''}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'statusid'], u'entityType': u'assetversion', u'parents': [{u'entityId': u'b5eefd64-bd0a-11e4-b143-040112b6a801', u'entityType': u'assetversion', u'parentId': u'b5e4ea48-bb4f-11e4-ae4b-040112b6a801'}, {u'entityId': u'b5e4ea48-bb4f-11e4-ae4b-040112b6a801', u'entityType': u'asset', u'parentId': u'c3cbf7de-ac89-11e4-9f6d-040112b6a801'}, {u'entityId': u'c3cbf7de-ac89-11e4-9f6d-040112b6a801', u'entityType': u'task', u'parentId': u'93d70a8e-ab8d-11e4-9089-040112b6a801'}, {u'entityId': u'93d70a8e-ab8d-11e4-9089-040112b6a801', u'entityType': u'task', u'parentId': u'63d00fac-ab8d-11e4-800b-040112b6a801'}, {u'entityId': u'63d00fac-ab8d-11e4-800b-040112b6a801', u'entityType': u'task', u'parentId': u'5dc977a8-b357-11e3-8f90-040112b6a801'}, {u'entityId': u'5dc977a8-b357-11e3-8f90-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'b5e4ea48-bb4f-11e4-ae4b-040112b6a801', u'action': u'update', u'entityId': u'b5eefd64-bd0a-11e4-b143-040112b6a801'}], u'pushToken': None, u'parents': [u'b5eefd64-bd0a-11e4-b143-040112b6a801', u'c3cbf7de-ac89-11e4-9f6d-040112b6a801', u'93d70a8e-ab8d-11e4-9089-040112b6a801', u'5dc977a8-b357-11e3-8f90-040112b6a801', u'b5e4ea48-bb4f-11e4-ae4b-040112b6a801', u'63d00fac-ab8d-11e4-800b-040112b6a801'], u'user': {u'userid': u'2297bc32-b8f0-11e3-ab8f-040112b6a801', u'name': u'Morgan Griffiths'}, u'clientToken': u''}, 'id': u'13963253ac49417b9a56222e18799981', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 29, in callback
+    version = ftrack.AssetVersion(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:05,855 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'b7fd285f151b4ff39847834d8f854ccd'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'action': u'add', u'entityId': u'1548e9ce-bda5-11e4-8767-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'1548e9ce-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'160d7940633e48b3965f2921e94b68df', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 74, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 37, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:06,375 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'action': u'add', u'entityId': u'1548e9ce-bda5-11e4-8767-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'1548e9ce-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'160d7940633e48b3965f2921e94b68df', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 90, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:08,160 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'b7fd285f151b4ff39847834d8f854ccd'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'15cf0bc6-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'1548e9ce-bda5-11e4-8767-040112b6a801'}, {u'entityId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'action': u'add', u'entityId': u'15cf0bc6-bda5-11e4-8767-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'15cf0bc6-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801', u'1548e9ce-bda5-11e4-8767-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'68a5221c05844950ae677aa830c26039', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 74, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 37, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:08,852 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'15cf0bc6-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'1548e9ce-bda5-11e4-8767-040112b6a801'}, {u'entityId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'action': u'add', u'entityId': u'15cf0bc6-bda5-11e4-8767-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'15cf0bc6-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801', u'1548e9ce-bda5-11e4-8767-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'68a5221c05844950ae677aa830c26039', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 90, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:09,055 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'b7fd285f151b4ff39847834d8f854ccd'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'1600e3f8-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'1548e9ce-bda5-11e4-8767-040112b6a801'}, {u'entityId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'action': u'add', u'entityId': u'1600e3f8-bda5-11e4-8767-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'1548e9ce-bda5-11e4-8767-040112b6a801', u'1600e3f8-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'ebb028519c054d57ac9f612e780fbd76', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 74, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 37, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:09,861 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'1600e3f8-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'1548e9ce-bda5-11e4-8767-040112b6a801'}, {u'entityId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'1548e9ce-bda5-11e4-8767-040112b6a801', u'action': u'add', u'entityId': u'1600e3f8-bda5-11e4-8767-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'1548e9ce-bda5-11e4-8767-040112b6a801', u'1600e3f8-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'ebb028519c054d57ac9f612e780fbd76', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 90, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:13,210 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'b7fd285f151b4ff39847834d8f854ccd'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'action': u'add', u'entityId': u'16c60ade-bda5-11e4-8767-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'16c60ade-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'ef9a11c22fab4f51b84723073274db5a', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 74, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 37, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:13,780 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'action': u'add', u'entityId': u'16c60ade-bda5-11e4-8767-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'16c60ade-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'ef9a11c22fab4f51b84723073274db5a', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 90, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:14,747 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'b7fd285f151b4ff39847834d8f854ccd'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'17328a2e-bda5-11e4-82bf-040112b6a801', u'entityType': u'task', u'parentId': u'16c60ade-bda5-11e4-8767-040112b6a801'}, {u'entityId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'action': u'add', u'entityId': u'17328a2e-bda5-11e4-82bf-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'16c60ade-bda5-11e4-8767-040112b6a801', u'17328a2e-bda5-11e4-82bf-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'1fc92681dc4d4f4bb11ff7585870c897', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 74, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 37, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:15,622 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'17328a2e-bda5-11e4-82bf-040112b6a801', u'entityType': u'task', u'parentId': u'16c60ade-bda5-11e4-8767-040112b6a801'}, {u'entityId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'action': u'add', u'entityId': u'17328a2e-bda5-11e4-82bf-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'16c60ade-bda5-11e4-8767-040112b6a801', u'17328a2e-bda5-11e4-82bf-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'1fc92681dc4d4f4bb11ff7585870c897', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 90, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:15,835 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'b7fd285f151b4ff39847834d8f854ccd'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'17705a7a-bda5-11e4-82bf-040112b6a801', u'entityType': u'task', u'parentId': u'16c60ade-bda5-11e4-8767-040112b6a801'}, {u'entityId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'action': u'add', u'entityId': u'17705a7a-bda5-11e4-82bf-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'16c60ade-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801', u'17705a7a-bda5-11e4-82bf-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'4d7cb2eec34a4c5da9cc1034f1b58612', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 74, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py", line 37, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:49:16,605 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': '969d321ab06f4432b31809898d751d2b'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': None}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'17705a7a-bda5-11e4-82bf-040112b6a801', u'entityType': u'task', u'parentId': u'16c60ade-bda5-11e4-8767-040112b6a801'}, {u'entityId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'entityType': u'task', u'parentId': u'3c416908-b1e7-11e4-9025-040112b6a801'}, {u'entityId': u'3c416908-b1e7-11e4-9025-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'16c60ade-bda5-11e4-8767-040112b6a801', u'action': u'add', u'entityId': u'17705a7a-bda5-11e4-82bf-040112b6a801'}], u'pushToken': None, u'parents': [u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'16c60ade-bda5-11e4-8767-040112b6a801', u'3c416908-b1e7-11e4-9025-040112b6a801', u'17705a7a-bda5-11e4-82bf-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': None}, 'id': u'4d7cb2eec34a4c5da9cc1034f1b58612', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 103, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py", line 90, in callback
+    task = ftrack.Task(id=entity['entityId'])
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 291, in action
+    self.handleServerErrors(e)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 208, in handleServerErrors
+    u'Server responded with an error - {0}'.format(message)
+PermissionDeniedError: Server responded with an error - Unvalid or inactive username. Please verify that the username b2badmin exists and is active. More information can be found here: http://api.ftrack.com/developing/getting_started.html#security-and-api-keys
+2015-02-26 10:51:07,528 - K:\tools\FTrack\ftrack-event-server\server.py - [WARNING]: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:51:07,529 - K:\tools\FTrack\ftrack-event-server\server.py - [WARNING]: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-02-26 10:51:07,648 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-02-26 10:51:07,683 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-02-26 10:51:07,744 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-02-26 10:51:07,846 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_up!
+2015-02-26 10:51:07,874 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.next_task_update!
+2015-02-26 10:51:07,963 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-02-26 10:51:08,052 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-02-26 10:51:08,082 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-02-26 10:51:08,174 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.Toot.toot_production!
+2015-02-26 10:51:08,210 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-02-26 10:53:07,720 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py - [INFO]: Updating thumbnail for task tcu_008_050/compositing
+2015-02-26 10:53:09,256 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py - [INFO]: Deleted editing
+2015-02-26 10:53:18,980 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Not Ready"
+2015-02-26 10:53:22,568 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py - [INFO]: Updating thumbnail for task tcu_008_060/compositing
+2015-02-26 10:53:23,318 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py - [INFO]: Deleted editing
+2015-02-26 10:53:27,680 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Not Ready"
+2015-02-26 10:53:55,426 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc03sh001/Animation to Complete
+2015-02-26 10:55:02,703 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc03sh003/Animation to Complete
+2015-02-26 10:57:19,216 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc03sh004/Animation to Complete
+2015-02-26 10:59:47,650 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc03sh006/Animation to Complete
+2015-02-26 11:00:10,428 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc04sh004/Animation to Complete
+2015-02-26 11:00:23,147 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc03sh008/Animation to Complete
+2015-02-26 11:01:51,065 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc03sh014/Animation to Complete
+2015-02-26 11:02:39,279 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc04sh005/Animation to Complete
+2015-02-26 11:03:26,232 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc04sh006/Animation to Complete
+2015-02-26 11:06:59,017 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_comp_add.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Ready"
+2015-02-26 11:07:01,526 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_comp_add.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Ready"
+2015-02-26 11:07:02,657 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Ready"
+2015-02-26 11:07:04,994 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Ready"
+2015-02-26 11:07:11,573 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Ready"
+2015-02-26 11:09:09,242 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Render"
+2015-02-26 11:09:11,522 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Render"
+2015-02-26 11:09:12,911 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Render"
+2015-02-26 11:09:14,102 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Render"
+2015-02-26 11:09:34,086 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Render"
+2015-02-26 11:09:38,759 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Render"
+2015-02-26 11:09:40,065 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Artist Review"
+2015-02-26 11:09:42,476 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc04sh008/Animation to Complete
+2015-02-26 11:09:45,543 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Artist Review"
+2015-02-26 11:09:48,500 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc04sh007/Animation to Complete
+2015-02-26 11:09:52,966 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Render"
+2015-02-26 11:09:54,549 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Render"
+2015-02-26 11:10:10,576 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Artist Review"
+2015-02-26 11:10:14,944 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Artist Review"
+2015-02-26 11:13:00,118 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc04sh009/Animation to Complete
+2015-02-26 11:13:00,934 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Complete"
+2015-02-26 11:13:03,267 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_task_complete_status.py - [INFO]: the_call_up/sq001/tcu_008_050/compositing updated to "Ready"
+2015-02-26 11:13:05,266 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Supervisor Review"
+2015-02-26 11:13:16,424 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc04sh010/Animation to Complete
+2015-02-26 11:13:28,667 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Ready"
+2015-02-26 11:13:51,592 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc04sh011/Animation to Complete
+2015-02-26 11:14:47,039 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:14:48,779 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:14:49,799 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:14:51,020 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 11:15:26,016 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:15:27,311 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:15:29,292 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 11:15:32,296 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:15:33,937 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 11:15:35,158 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 11:15:54,289 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 11:15:56,144 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 11:19:45,904 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc05sh007/Animation to Pending Review
+2015-02-26 11:20:10,665 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Complete"
+2015-02-26 11:20:11,918 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_task_complete_status.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Ready"
+2015-02-26 11:20:14,092 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Supervisor Review"
+2015-02-26 11:21:47,233 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc05sh008/Animation to Pending Review
+2015-02-26 11:23:17,289 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc07sh001/Animation to Complete
+2015-02-26 11:23:24,976 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc07sh002/Animation to Complete
+2015-02-26 11:25:54,946 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:25:55,819 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 11:26:00,857 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:26:02,367 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:26:03,805 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 11:26:05,223 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 11:26:06,298 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 11:26:07,802 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 11:26:44,503 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 11:26:45,852 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 11:27:23,959 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc03sh016/Animation to Complete
+2015-02-26 11:27:27,586 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc07sh001/Animation to In Progress
+2015-02-26 11:28:37,407 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc07sh001/Animation to Complete
+2015-02-26 11:29:37,184 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc07sh002/Animation to In Progress
+2015-02-26 11:30:37,967 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Pending Changes"
+2015-02-26 11:30:40,256 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_up.py - [ERROR]: Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_up.py", line 126, in callback
+    [new_path, version_number] = version_up(path)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_up.py", line 64, in version_up
+    os.makedirs(os.path.dirname(new_path))
+  File "C:\Python27\lib\os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "C:\Python27\lib\os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "C:\Python27\lib\os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "C:\Python27\lib\os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "C:\Python27\lib\os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "C:\Python27\lib\os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "C:\Python27\lib\os.py", line 157, in makedirs
+    mkdir(name, mode)
+WindowsError: [Error 3] The system cannot find the path specified: 'Y:\\'
+
+2015-02-26 11:34:27,270 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Artist Review"
+2015-02-26 11:34:42,588 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Pending Changes"
+2015-02-26 11:34:44,519 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_up.py - [INFO]: Version from 1 to 2 on the_call_up/sq001/tcu_008_060/compositing
+2015-02-26 11:36:03,660 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc05sh001/Animation to Complete
+2015-02-26 11:37:12,029 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc08sh001/Animation to In Progress
+2015-02-26 11:41:49,148 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc05sh008/Animation to Complete
+2015-02-26 11:42:18,401 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc05sh014/Animation to Complete
+2015-02-26 11:42:41,760 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh001/Animation to In Progress
+2015-02-26 11:45:58,572 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh003/Animation to In Progress
+2015-02-26 11:48:39,401 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh004/Animation to In Progress
+2015-02-26 11:52:45,993 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc11sh002/Animation to Complete
+2015-02-26 11:58:39,082 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc13sh011/Animation to In Progress
+2015-02-26 11:59:33,036 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc13sh012/Animation to Complete
+2015-02-26 12:08:50,292 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc08sh002/Animation to Pending Review
+2015-02-26 12:22:27,756 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc07sh002/Animation to Complete
+2015-02-26 12:24:57,630 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc10sh003/Animation to In Progress
+2015-02-26 12:26:27,647 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc10sh004/Animation to Complete
+2015-02-26 12:26:34,608 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc10sh003/Animation to Complete
+2015-02-26 12:35:50,767 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc05sh005/Animation to Complete
+2015-02-26 12:41:29,918 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc05sh009/Animation to Pending Review
+2015-02-26 12:43:53,721 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh004/Animation to Complete
+2015-02-26 12:47:56,542 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc11sh004/Animation to Complete
+2015-02-26 12:49:04,657 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc11sh005/Animation to In Progress
+2015-02-26 12:53:34,664 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc11sh007/Animation to In Progress
+2015-02-26 13:04:30,207 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:04:31,729 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:04:33,730 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 13:04:35,069 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 13:08:04,436 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:08:05,709 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:08:07,155 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:08:09,220 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 13:09:03,846 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:09:04,723 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:09:09,447 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:09:11,118 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:09:12,711 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:09:15,515 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:09:16,510 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:09:17,877 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:09:19,423 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:09:20,701 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:09:22,394 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:13:35,910 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:13:41,197 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:13:42,076 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:13:43,155 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:13:46,454 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:13:47,483 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:13:48,571 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:13:50,111 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 13:14:11,302 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:19:50,851 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:21:06,033 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:21:07,086 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:21:09,164 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:21:11,144 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 13:22:24,427 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:22:25,408 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:22:29,151 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:22:29,953 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:22:30,749 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:22:33,753 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:22:34,828 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:22:36,148 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:22:37,653 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:22:38,338 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:22:39,650 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:22:53,013 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:22:54,148 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 13:23:08,436 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:26:19,046 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:26:19,992 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:26:24,621 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:26:25,736 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:26:26,813 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:26:29,082 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:26:30,602 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:26:32,131 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:26:33,684 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:26:35,279 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:26:36,851 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:26:51,352 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:26:52,164 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 13:26:55,309 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:35:57,390 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:35:58,819 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:36:04,138 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:36:05,717 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:36:07,799 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:36:10,391 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:36:11,717 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:36:13,341 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:36:14,516 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:36:15,206 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:36:16,262 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 13:36:37,325 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:36:38,549 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 13:36:42,900 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 13:49:47,035 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 13:49:47,825 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:16:22,994 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc03sh006/Animation to In Progress
+2015-02-26 14:27:02,010 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:27:08,631 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:27:10,519 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:27:12,167 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:27:14,578 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:27:16,329 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:27:17,608 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:27:19,019 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:27:20,230 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:27:21,464 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:27:46,269 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:27:47,499 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 14:27:50,697 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:28:16,851 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:28:18,815 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:28:25,565 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:28:27,854 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:28:30,757 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:28:35,171 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc07sh003/Animation to In Progress
+2015-02-26 14:28:40,121 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:28:41,276 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:28:42,900 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:28:44,576 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:28:45,377 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:28:46,364 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:29:05,523 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:29:06,918 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 14:29:14,331 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:30:08,072 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:30:09,611 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:30:19,858 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:30:22,292 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:30:24,585 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:30:28,266 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:30:29,769 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:30:31,013 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:30:31,973 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:30:33,812 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 14:30:50,864 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:30:53,950 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:31:18,016 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:31:18,967 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:31:23,894 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:31:25,155 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:31:26,683 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:31:29,801 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:31:31,002 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:31:32,450 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:31:34,144 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 14:31:56,325 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:33:26,075 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:33:27,493 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:33:58,647 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:33:59,964 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Artist Review"
+2015-02-26 14:36:05,934 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:36:07,476 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:36:16,230 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:36:18,025 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:36:20,240 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:36:23,801 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:36:24,801 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:36:26,575 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:36:27,650 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:36:28,766 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:36:30,515 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:38:51,198 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:38:57,006 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:38:58,505 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:39:00,365 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:39:03,563 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:39:04,723 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:39:05,881 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:39:07,904 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:39:08,782 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:39:09,822 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:40:15,107 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:40:20,836 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:40:22,243 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:40:23,828 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:40:27,338 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:40:28,726 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:40:29,957 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Artist Review"
+2015-02-26 14:40:31,118 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_008_060/compositing updated to "Render"
+2015-02-26 14:40:31,954 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:40:33,388 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Render"
+2015-02-26 14:43:32,493 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'd65e47da33124d4d976d9fd828e9150c'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': u'8d0f3c7c-bdc5-11e4-a163-040112b6a801'}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'enddate', u'description', u'isopen', u'parent_id', u'context_type', u'startdate', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'action': u'add', u'entityId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801'}], u'pushToken': u'9003f440bdc511e48752040112b6a801', u'parents': [u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'26d1ccf6-b07b-11e4-b40c-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': u'8d0f3c7c-bdc5-11e4-a163-040112b6a801'}, 'id': u'b3d7d8b2e8e54823951d3b855f9723aa', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py", line 40, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py", line 30, in callback
+    thumbnail = utils.getThumbnailRecursive(task)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py", line 191, in getThumbnailRecursive
+    parent = ftrack.Task(id=task.get('parent_id'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 303, in action
+    return self._verifyResponse(response)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 189, in _verifyResponse
+    raise FTrackError(response['detail'])
+FTrackError: Object with id: 26d1ccf6-b07b-11e4-b40c-040112b6a801 and type: task was not found
+2015-02-26 14:43:49,288 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sc008 updated to "Not Ready"
+2015-02-26 14:43:49,573 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sc008 updated to "Not Ready"
+2015-02-26 14:43:49,928 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sc008 updated to "Not Ready"
+2015-02-26 14:43:50,236 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sc008 updated to "Not Ready"
+2015-02-26 14:43:50,776 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sc008 updated to "Not Ready"
+2015-02-26 14:43:51,061 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sc008 updated to "Not Ready"
+2015-02-26 14:43:56,165 - K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py - [ERROR]: Error calling subscriber <Subscriber metadata={'id': 'd65e47da33124d4d976d9fd828e9150c'} subscription=topic=ftrack.update> for event <Event {'topic': u'ftrack.update', 'source': {u'applicationId': u'ftrack.client.web', u'user': {u'id': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801'}, u'id': u'8d0f3c7c-bdc5-11e4-a163-040112b6a801'}, 'target': u'', 'sent': None, 'data': {u'entities': [{u'keys': [u'typeid', u'showid', u'workload', u'description', u'isopen', u'parent_id', u'context_type', u'bid', u'taskid', u'priorityid', u'statusid', u'isrequirecomment', u'object_typeid', u'istimeless', u'id', u'name'], u'entityType': u'task', u'parents': [{u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801', u'entityType': u'task', u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801'}, {u'entityId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'action': u'add', u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801'}, {u'keys': [], u'entityType': u'task', u'parents': [{u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801', u'entityType': u'task', u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801'}, {u'entityId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'action': u'update', u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801'}, {u'keys': [], u'entityType': u'task', u'parents': [{u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801', u'entityType': u'task', u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801'}, {u'entityId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'action': u'update', u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801'}, {u'keys': [], u'entityType': u'task', u'parents': [{u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801', u'entityType': u'task', u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801'}, {u'entityId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'action': u'update', u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801'}, {u'keys': [], u'entityType': u'task', u'parents': [{u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801', u'entityType': u'task', u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801'}, {u'entityId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'action': u'update', u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801'}, {u'keys': [], u'entityType': u'task', u'parents': [{u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801', u'entityType': u'task', u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801'}, {u'entityId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'action': u'update', u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801'}, {u'keys': [], u'entityType': u'task', u'parents': [{u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801', u'entityType': u'task', u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801'}, {u'entityId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'entityType': u'task', u'parentId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801'}, {u'entityId': u'26d1ccf6-b07b-11e4-b40c-040112b6a801', u'entityType': u'show', u'parentId': None}], u'parentId': u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'action': u'update', u'entityId': u'df2064a0-bdc5-11e4-a163-040112b6a801'}], u'pushToken': u'9003f440bdc511e48752040112b6a801', u'parents': [u'd4d2675a-bdc5-11e4-9b2c-040112b6a801', u'df2064a0-bdc5-11e4-a163-040112b6a801', u'26d1ccf6-b07b-11e4-b40c-040112b6a801'], u'user': {u'userid': u'b0fdb9ba-b037-11e4-ac9f-040112b6a801', u'name': u'Toke Jepsen'}, u'clientToken': u'8d0f3c7c-bdc5-11e4-a163-040112b6a801'}, 'id': u'7a1a91a652734f6cab90b25d2141b1a3', 'inReplyToEvent': None}>.
+Traceback (most recent call last):
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\event\hub.py", line 649, in _handle
+    response = subscriber.callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py", line 40, in main
+    callback(event)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py", line 30, in callback
+    thumbnail = utils.getThumbnailRecursive(task)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py", line 192, in getThumbnailRecursive
+    return getThumbnailRecursive(parent)
+  File "K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py", line 191, in getThumbnailRecursive
+    parent = ftrack.Task(id=task.get('parent_id'))
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\ftobject.py", line 78, in __init__
+    self.dict = self.xmlServer.action('get',data)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 303, in action
+    return self._verifyResponse(response)
+  File "K:\tools\FTrack\ftrack-api\FTrackCore.egg\FTrackCore\api\xmlserver.py", line 189, in _verifyResponse
+    raise FTrackError(response['detail'])
+FTrackError: Object with id: 26d1ccf6-b07b-11e4-b40c-040112b6a801 and type: task was not found
+2015-02-26 14:43:58,885 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sc008 updated to "Not Ready"
+2015-02-26 14:54:45,851 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc10sh001/Animation to In Progress
+2015-02-26 15:02:51,104 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc11sh003/Animation to Complete
+2015-02-26 15:04:00,250 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh003/Animation to Complete
+2015-02-26 15:04:53,905 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc12sh003/Animation to Complete
+2015-02-26 15:05:21,178 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc11sh005/Animation to Complete
+2015-02-26 15:05:38,289 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc11sh006/Animation to In Progress
+2015-02-26 15:11:45,446 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc12sh007/Animation to Pending Review
+2015-02-26 15:14:41,746 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc12sh008/Animation to In Progress
+2015-02-26 15:25:12,716 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc05sh007/Animation to In Progress
+2015-02-26 15:29:40,546 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc14sh002/Animation to Complete
+2015-02-26 15:35:47,845 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc01sh001/Animation to Complete
+2015-02-26 15:36:00,757 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc01sh002/Animation to Complete
+2015-02-26 15:37:38,398 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc05sh008/Animation to Complete
+2015-02-26 15:47:59,812 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh002/Animation to In Progress
+2015-02-26 15:51:34,418 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc10sh001/Animation to In Progress
+2015-02-26 16:27:14,171 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py - [INFO]: Updating thumbnail for task tcu_008_050/compositing
+2015-02-26 16:27:15,035 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py - [INFO]: Deleted editing
+2015-02-26 16:27:23,002 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_050 updated to "Not Ready"
+2015-02-26 16:27:26,783 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py - [INFO]: Updating thumbnail for task tcu_008_060/compositing
+2015-02-26 16:27:27,384 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py - [INFO]: Deleted editing
+2015-02-26 16:27:33,086 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_008_060 updated to "Not Ready"
+2015-02-26 16:37:08,819 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py - [INFO]: Updating thumbnail for task tcu_sq001_008_050/compositing
+2015-02-26 16:37:10,305 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py - [INFO]: Deleted editing
+2015-02-26 16:37:16,335 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Not Ready"
+2015-02-26 16:37:20,026 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py - [INFO]: Updating thumbnail for task tcu_sq001_008_060/compositing
+2015-02-26 16:37:21,674 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py - [INFO]: Deleted editing
+2015-02-26 16:37:25,098 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060 updated to "Not Ready"
+2015-02-26 16:40:20,546 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py - [INFO]: Updating thumbnail for task tcu_sq001_008_050/compositing
+2015-02-26 16:40:22,168 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py - [INFO]: Deleted editing
+2015-02-26 16:40:29,246 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Not Ready"
+2015-02-26 16:40:31,875 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\recursive_thumbnail_updating.py - [INFO]: Updating thumbnail for task tcu_sq001_008_060/compositing
+2015-02-26 16:40:32,710 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_shot_editing_delete.py - [INFO]: Deleted editing
+2015-02-26 16:40:36,901 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060 updated to "Not Ready"
+2015-02-26 16:40:41,079 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_comp_add.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Ready"
+2015-02-26 16:40:43,769 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_comp_add.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060/compositing updated to "Ready"
+2015-02-26 16:40:44,785 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Ready"
+2015-02-26 16:40:47,451 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060 updated to "Ready"
+2015-02-26 16:41:00,265 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Ready"
+2015-02-26 16:41:01,088 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060 updated to "Ready"
+2015-02-26 16:43:26,311 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 16:43:27,377 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 16:43:28,243 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 16:43:29,273 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 16:44:01,622 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 16:44:02,490 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 16:44:03,526 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 16:44:07,680 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 16:44:08,818 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 16:44:10,078 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 16:44:25,543 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 16:44:26,709 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Artist Review"
+2015-02-26 16:44:37,522 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 16:56:13,733 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc14sh007/Animation to In Progress
+2015-02-26 16:59:31,841 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc14sh008/Animation to Pending Review
+2015-02-26 17:01:19,716 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc14sh009/Animation to Pending Review
+2015-02-26 17:05:56,210 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc14sh010/Animation to In Progress
+2015-02-26 17:07:33,865 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:07:34,627 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:07:38,210 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:07:39,170 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:07:40,384 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:07:44,303 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:07:45,868 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:07:48,328 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:07:50,200 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:07:51,454 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:07:53,147 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:08:14,237 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:08:16,365 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Artist Review"
+2015-02-26 17:08:42,309 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc14sh002/Animation to In Progress
+2015-02-26 17:09:23,862 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc14sh003/Animation to Complete
+2015-02-26 17:10:02,944 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh011/Animation to Complete
+2015-02-26 17:10:49,733 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh018/Animation to Complete
+2015-02-26 17:11:00,085 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:11:01,131 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:11:04,750 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:11:05,585 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:11:06,470 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:11:09,756 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:11:11,697 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:11:13,448 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:11:15,107 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:11:16,086 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:11:17,697 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:11:27,351 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:11:28,506 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Artist Review"
+2015-02-26 17:11:33,586 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:14:10,743 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc12sh005/Animation to Complete
+2015-02-26 17:14:40,874 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc12sh007/Animation to Complete
+2015-02-26 17:15:23,855 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc14sh004/Animation to In Progress
+2015-02-26 17:16:53,269 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc12sh010/Animation to Complete
+2015-02-26 17:18:13,365 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc12sh018/Animation to Complete
+2015-02-26 17:18:37,592 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc01sh003/Animation to Complete
+2015-02-26 17:18:54,543 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc01sh003/Animation to In Progress
+2015-02-26 17:19:20,470 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc12sh021/Animation to Complete
+2015-02-26 17:19:37,244 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc01sh004/Animation to Complete
+2015-02-26 17:19:43,674 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc12sh026/Animation to Complete
+2015-02-26 17:28:04,447 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc07sh003/Animation to In Progress
+2015-02-26 17:30:50,220 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh001/Animation to Complete
+2015-02-26 17:31:18,677 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc09sh002/Animation to Complete
+2015-02-26 17:33:17,964 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc11sh008/Animation to In Progress
+2015-02-26 17:35:42,499 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc11sh009/Animation to Complete
+2015-02-26 17:41:00,730 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc13sh007/Animation to In Progress
+2015-02-26 17:41:22,990 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc13sh008/Animation to Complete
+2015-02-26 17:44:04,410 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc13sh013/Animation to In Progress
+2015-02-26 17:45:01,240 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc13sh011/Animation to Complete
+2015-02-26 17:46:48,265 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:46:49,046 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:46:52,881 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:46:53,819 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:46:57,642 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:46:58,838 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:47:00,128 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:47:01,460 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:47:02,273 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Artist Review"
+2015-02-26 17:48:29,069 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc13sh023/Animation to In Progress
+2015-02-26 17:51:28,026 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:51:31,799 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:51:38,219 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:51:39,453 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:51:40,210 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Artist Review"
+2015-02-26 17:51:45,592 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc01sh003/Animation to Complete
+2015-02-26 17:53:10,278 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:53:11,104 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:53:16,625 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:53:18,792 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:53:20,108 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Artist Review"
+2015-02-26 17:54:12,473 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:54:14,299 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:54:16,381 - K:\tools\FTrack\ftrack-event-server\production_plugins\Toot\toot_production.py - [INFO]: Updating sc03sh001/animation to In Progress
+2015-02-26 17:54:22,950 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:54:24,512 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:54:25,716 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Artist Review"
+2015-02-26 17:55:12,724 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:55:13,948 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:55:17,349 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:55:20,625 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:55:21,885 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Artist Review"
+2015-02-26 17:57:08,871 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:57:09,634 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Render"
+2015-02-26 17:57:14,345 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Render"
+2015-02-26 17:57:18,200 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050/compositing updated to "Artist Review"
+2015-02-26 17:57:20,563 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_050 updated to "Artist Review"
+2015-02-26 18:00:22,102 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060/compositing updated to "Render"
+2015-02-26 18:00:23,654 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060/compositing updated to "Render"
+2015-02-26 18:00:24,746 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060/compositing updated to "Render"
+2015-02-26 18:00:26,191 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060 updated to "Render"
+2015-02-26 18:01:27,022 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\version_to_task_statuses.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060/compositing updated to "Artist Review"
+2015-02-26 18:01:28,914 - K:\tools\FTrack\ftrack-event-server\production_plugins\the_call_up\task_to_shot_update.py - [INFO]: the_call_up/sq001/tcu_sq001_008_060 updated to "Artist Review"

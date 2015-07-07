@@ -1,0 +1,172 @@
+2015-02-12 10:18:53,296 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 11:51:10,881 - server - ERROR - Reload of event_logging - Copy failed: u'event_logging - Copy'
+2015-02-12 11:51:29,891 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 11:51:29,898 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 11:53:34,368 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 11:53:34,369 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 11:53:44,483 - server - ERROR - Reload of version_render_complete - Copy failed: u'version_render_complete - Copy'
+2015-02-12 11:54:00,515 - server - ERROR - Reload of task_shot_editing_delete failed: u'task_shot_editing_delete'
+2015-02-12 11:54:00,515 - server - ERROR - Reload of task_shot_editing_delete failed: u'task_shot_editing_delete'
+2015-02-12 11:55:07,729 - server - ERROR - Reload of task_shot_editing_delete failed: u'task_shot_editing_delete'
+2015-02-12 11:55:07,792 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 11:55:07,839 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 12:01:24,555 - server - ERROR - Reload of version_render_complete - Copy failed: u'version_render_complete - Copy'
+2015-02-12 12:01:48,769 - server - ERROR - Reload of recursive_thumbnail_updating failed: u'recursive_thumbnail_updating'
+2015-02-12 12:01:48,769 - server - ERROR - Reload of recursive_thumbnail_updating failed: u'recursive_thumbnail_updating'
+2015-02-12 12:04:36,878 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 12:06:40,721 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:06:40,733 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:07:39,782 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:07:39,795 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:11:38,786 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:11:38,799 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:23:12,651 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:23:12,661 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:25:56,891 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:25:56,904 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:29:20,148 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:29:20,161 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:32:17,996 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:32:18,009 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:34:32,822 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:34:32,832 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:36:23,186 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:36:23,211 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 12:37:23,946 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 12:41:35,332 - server - INFO - Reloaded next_task_update
+2015-02-12 12:41:35,348 - server - INFO - Reloaded next_task_update
+2015-02-12 12:41:41,098 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:41:41,108 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:41:41,117 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:42:06,009 - server - INFO - Reloaded task_to_shot_update
+2015-02-12 12:42:06,019 - server - INFO - Reloaded task_to_shot_update
+2015-02-12 12:42:06,028 - server - INFO - Reloaded task_to_shot_update
+2015-02-12 12:42:35,095 - server - INFO - Reloaded version_to_task_update
+2015-02-12 12:42:35,105 - server - INFO - Reloaded version_to_task_update
+2015-02-12 12:46:26,661 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.py'>}.register() was <type 'NoneType'>
+2015-02-12 12:48:50,134 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 12:49:49,299 - server - ERROR - Reload of recursive_thumbnail_updating failed: u'recursive_thumbnail_updating'
+2015-02-12 12:49:49,299 - server - ERROR - Reload of recursive_thumbnail_updating failed: u'recursive_thumbnail_updating'
+2015-02-12 12:50:01,273 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 12:51:57,634 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:51:57,650 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:53:37,813 - server - ERROR - Reload of utils failed: 'ids'
+2015-02-12 12:53:37,816 - server - ERROR - Reload of utils failed: 'ids'
+2015-02-12 12:53:42,214 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:53:42,234 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:53:42,236 - server - ERROR - Reload of utils failed: 'ids'
+2015-02-12 12:53:57,275 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 12:56:54,144 - server - ERROR - Reload of utils failed: 'ids'
+2015-02-12 12:56:54,147 - server - ERROR - Reload of utils failed: 'ids'
+2015-02-12 12:57:10,605 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 12:57:32,851 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:57:32,868 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:57:32,880 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:58:22,078 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:58:22,086 - server - INFO - Reloaded recursive_thumbnail_updating
+2015-02-12 12:58:41,500 - server - ERROR - Reload of next_task_update failed: u'next_task_update'
+2015-02-12 12:58:41,503 - server - ERROR - Reload of next_task_update failed: u'next_task_update'
+2015-02-12 12:58:41,506 - server - ERROR - Reload of task_shot_editing_delete failed: u'task_shot_editing_delete'
+2015-02-12 12:58:41,506 - server - ERROR - Reload of task_shot_editing_delete failed: u'task_shot_editing_delete'
+2015-02-12 12:58:41,507 - server - ERROR - Reload of task_to_shot_update failed: u'task_to_shot_update'
+2015-02-12 12:58:41,509 - server - ERROR - Reload of task_to_shot_update failed: u'task_to_shot_update'
+2015-02-12 12:58:41,509 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 12:58:41,509 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 12:58:41,519 - server - ERROR - Reload of version_to_task_update failed: u'version_to_task_update'
+2015-02-12 12:58:41,519 - server - ERROR - Reload of version_to_task_update failed: u'version_to_task_update'
+2015-02-12 12:58:47,082 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 13:04:09,247 - server - INFO - Reloaded task_to_shot_update
+2015-02-12 13:04:09,259 - server - INFO - Reloaded task_to_shot_update
+2015-02-12 13:04:09,267 - server - INFO - Reloaded task_to_shot_update
+2015-02-12 13:05:52,410 - server - INFO - Reloaded next_task_update
+2015-02-12 13:05:52,421 - server - INFO - Reloaded next_task_update
+2015-02-12 13:07:57,265 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 13:07:57,276 - server - INFO - Reloaded task_shot_editing_delete
+2015-02-12 13:58:51,148 - server - WARNING - InvalidType: Returned ids from {'module': <module 'plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 14:01:35,996 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 14:05:21,687 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:05:21,698 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:05:21,707 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:08:15,362 - server - ERROR - Reload of version_render_complete failed: invalid syntax (version_render_complete.py, line 31)
+2015-02-12 14:08:15,371 - server - ERROR - Reload of version_render_complete failed: Cannot unsubscribe missing subscriber with identifier c063303b03c1403c99a3fd10e52fa17d
+2015-02-12 14:08:25,687 - server - ERROR - Reload of version_render_complete failed: Cannot unsubscribe missing subscriber with identifier c063303b03c1403c99a3fd10e52fa17d
+2015-02-12 14:08:42,391 - server - WARNING - Importing version_render_complete failed: invalid syntax (version_render_complete.py, line 31)
+2015-02-12 14:08:42,450 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 14:09:06,431 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 14:09:24,115 - server - WARNING - Importing version_render_complete failed: invalid syntax (version_render_complete.py, line 31)
+2015-02-12 14:10:33,990 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 14:10:39,882 - server - WARNING - Importing version_render_complete failed: invalid syntax (version_render_complete.py, line 33)
+2015-02-12 14:11:24,065 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 14:11:24,069 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 14:11:28,591 - server - WARNING - Importing version_render_complete failed: Attempted relative import beyond toplevel package
+2015-02-12 14:12:34,315 - server - ERROR - Reload of version_render_complete failed: u'version_render_complete'
+2015-02-12 14:12:37,529 - server - ERROR - Reload of utils failed: u'utils'
+2015-02-12 14:12:37,530 - server - ERROR - Reload of utils failed: u'utils'
+2015-02-12 14:12:45,579 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 14:13:08,869 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:13:08,881 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:13:08,890 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:14:31,861 - server - ERROR - Reload of utils failed: 'ids'
+2015-02-12 14:14:31,864 - server - ERROR - Reload of utils failed: 'ids'
+2015-02-12 14:14:44,069 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:14:44,081 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:15:54,586 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.py'>}.register() was <type 'NoneType'>
+2015-02-12 14:17:21,868 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:17:21,880 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:18:41,528 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:18:41,540 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:18:41,549 - server - INFO - Reloaded version_render_complete
+2015-02-12 14:19:37,512 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 14:24:59,517 - server - ERROR - Reload of version_to_task_status failed: u'version_to_task_status'
+2015-02-12 14:24:59,519 - server - ERROR - Reload of version_to_task_status failed: u'version_to_task_status'
+2015-02-12 14:25:11,308 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 14:37:12,773 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 16:55:24,276 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 16:57:53,657 - server - INFO - Reloaded version_to_task_status
+2015-02-12 16:57:53,684 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:02:30,612 - server - ERROR - Reload of version_to_task_status failed: invalid syntax (version_to_task_status.py, line 35)
+2015-02-12 17:02:30,621 - server - ERROR - Reload of version_to_task_status failed: Cannot unsubscribe missing subscriber with identifier 957c28997eb2409d84a942a1373475bc
+2015-02-12 17:02:42,753 - server - WARNING - Importing version_to_task_status failed: invalid syntax (version_to_task_status.py, line 35)
+2015-02-12 17:02:42,805 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 17:03:18,223 - server - ERROR - Reload of version_to_task_status failed: u'version_to_task_status'
+2015-02-12 17:03:18,227 - server - ERROR - Reload of version_to_task_status failed: u'version_to_task_status'
+2015-02-12 17:03:24,730 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 17:04:35,721 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
+2015-02-12 17:05:33,904 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:05:33,915 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:06:41,196 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:06:41,207 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:07:16,352 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:07:16,364 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:09:37,744 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:09:37,756 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:09:37,765 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:12:05,007 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:12:05,019 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:12:05,026 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:14:03,743 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:14:03,753 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:20:59,654 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:20:59,667 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:20:59,674 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:23:39,904 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:23:39,914 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:27:22,075 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:27:22,086 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:28:31,137 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:28:31,148 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:28:31,155 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:32:34,575 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:32:34,585 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:35:57,002 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:35:57,013 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:36:29,401 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:36:29,411 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:36:29,420 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:42:03,318 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:42:03,329 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:42:31,394 - server - ERROR - Reload of utils failed: 'ids'
+2015-02-12 17:42:54,582 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.py'>}.register() was <type 'NoneType'>
+2015-02-12 17:43:22,334 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:43:22,345 - server - INFO - Reloaded version_to_task_status
+2015-02-12 17:47:24,463 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>

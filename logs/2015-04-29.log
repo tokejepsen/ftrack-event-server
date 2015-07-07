@@ -1,0 +1,13 @@
+2015-04-29 09:37:27,733 - K:\tools\FTrack\ftrack-api\requests\packages\urllib3\connectionpool.py - [INFO]: Starting new HTTPS connection (1): bait.ftrackapp.com
+2015-04-29 09:37:28,407 - K:\tools\FTrack\ftrack-event-server\server.py - [WARNING]: No "topic" variable found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-04-29 09:37:28,407 - K:\tools\FTrack\ftrack-event-server\server.py - [WARNING]: No "main" function found in K:\tools\FTrack\ftrack-event-server\production_plugins\utils.py
+2015-04-29 09:37:28,437 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.ethel_and_ernest.next_task_update!
+2015-04-29 09:37:28,482 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.next_task_update!
+2015-04-29 09:37:28,494 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.recursive_thumbnail_updating!
+2015-04-29 09:37:28,500 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_shot_editing_delete!
+2015-04-29 09:37:28,506 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_to_shot_update!
+2015-04-29 09:37:28,513 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.task_to_task_complete_status!
+2015-04-29 09:37:28,526 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_to_task_comp_add!
+2015-04-29 09:37:28,532 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_to_task_statuses!
+2015-04-29 09:37:28,576 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.the_call_up.version_up!
+2015-04-29 09:37:28,601 - K:\tools\FTrack\ftrack-event-server\server.py - [INFO]: Loaded production_plugins.Toot.toot_production!

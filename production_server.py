@@ -6,5 +6,5 @@ sys.path.append(path)
 
 import server
 
-os.environ['LOGNAME'] = 'toke.jepsen'
+os.environ['LOGNAME'] = 'milan.kolar'
 server.setup('production_plugins')

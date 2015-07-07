@@ -16,36 +16,43 @@ def callback(event):
     for entity in event['data'].get('entities', []):
 
         # Filter non-assetversions
-        if entity.get('entityType') == 'assetversion' and entity['action'] == 'update':
+        if entity['entityType'] == 'assetversion' and entity['action'] == 'update' and (entity['keys'][0]=='statusid' or entity['keys'][0]=='ispublished'):
             version = ftrack.AssetVersion(id=entity.get('entityId'))
             version_status = version.getStatus()
             task = ftrack.Task(version.get('taskid'))
             task_status = None
+            assetType = version.getAsset().getType().getName()
 
             # Filter to versions with status change to "render queued"
-            if version_status.get('name').lower() == 'pending changes':
+            if version_status.get('name').lower() == 'pending review':
 
-                task_status = utils.GetStatusByName('pending changes')
+                task_status = utils.GetStatusByName('pending review')
 
             # Filter to versions with status change to "render queued"
-            if version_status.get('name').lower() == 'render queued':
+            if version_status.get('name').lower() == 'reviewed':
 
-                task_status = utils.GetStatusByName('render')
+                task_status = utils.GetStatusByName('in progress')
 
             # Filter to versions with status change to "render"
-            if version_status.get('name').lower() == 'render':
+            if version_status.get('name').lower() == 'approved':
 
-                task_status = utils.GetStatusByName('render')
+                    task_status = utils.GetStatusByName('complete')
+
+            # Filter to versions with status change to "render complete"
+            if version_status.get('name').lower() == 'on farm':
+
+                task_status = utils.GetStatusByName('on farm')
 
             # Filter to versions with status change to "render complete"
             if version_status.get('name').lower() == 'render complete':
 
-                task_status = utils.GetStatusByName('artist review')
+                task_status = utils.GetStatusByName('render complete')
 
             # Filter to versions with status change to "render failed"
             if version_status.get('name').lower() == 'render failed':
 
                 task_status = utils.GetStatusByName('render failed')
+
 
             # Proceed if the task status was set
             if task_status:

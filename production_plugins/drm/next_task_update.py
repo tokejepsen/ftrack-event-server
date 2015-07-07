@@ -1,10 +1,11 @@
 import logging
-
-log = logging.getLogger()
+import operator
 
 import ftrack
 import plugins_api
 import utils
+
+log = logging.getLogger()
 
 topic = 'ftrack.update'
 
@@ -35,7 +36,7 @@ def callback(event):
                     next_task = utils.GetNextTask(task)
                     if next_task:
                         if next_task.getStatus().get('state') == 'NOT_STARTED':
-                            if next_task.getStatus().get('name').lower() == 'Not ready'.lower():
+                            if next_task.getStatus().get('name').lower() == 'not ready'.lower():
 
                                 # Get path to next task
                                 path = next_task.get('name')

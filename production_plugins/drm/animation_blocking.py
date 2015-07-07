@@ -20,14 +20,11 @@ def callback(event):
             version = ftrack.AssetVersion(id=entity.get('entityId'))
             task = ftrack.Task(version.get('taskid'))
             current_task_status = task.getStatus().getName()
-            assetType = version.getAsset().getType().getName()
-            assetName = version.getAsset().getName()
 
             if current_task_status.lower() == 'blocking':
                 comment = version.getComment()
                 comment = 'BLOCKING: ' + comment
                 version.set('comment', value=comment)
-
 
 
 def main(event):

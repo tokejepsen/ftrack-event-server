@@ -81,6 +81,4 @@ def callback(event):
                         log.info('%s updated to "%s"' % (path, task_status.get('name')))
 
 def main(event):
-    success = plugins_api.check_project(event, __file__)
-    if success:
-        callback(event)
+    callback(event)

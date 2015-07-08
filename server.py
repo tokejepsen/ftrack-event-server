@@ -2,9 +2,7 @@ import os
 import sys
 import logging
 import time
-import traceback
 import datetime
-
 
 # setup logging
 format = '%(asctime)s - %(pathname)s - [%(levelname)s]: %(message)s'
@@ -30,11 +28,11 @@ sys.path.append(os.path.join(path, 'pathtools'))
 import ftrack
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
-import plugins_api
 
 modules = {}
 
 ftrack.setup()
+
 
 def PurgePlugins(plugins_folder):
     target_module = None
@@ -56,16 +54,23 @@ def RegisterPlugin(path):
     if 'pyc' in f[1] or f[0] == '__init__':
         return
 
-    module = path.replace(os.path.dirname(__file__) + os.sep, '')
-    module = os.path.splitext(module)[0].replace(os.sep, '.')
-    exec('import %s' % module)
-    exec('reload(%s)' % module)
+    root, parent = os.path.split(
+        os.path.abspath(os.path.join(path, os.pardir)))
+
+    module_list = [parent, f[0]]
+    module = '.'.join(module_list)
+    try:
+        exec('import %s' % module)
+        exec('reload(%s)' % module)
+    except ImportError:
+        print 'module: ' + module + ' could not be imported'
+        return
 
     # checking for topic variable
     topic = None
     try:
         exec('topic = %s.topic' % module)
-    except Exception as e:
+    except Exception:
         msg = 'No "topic" variable found'
         msg += ' in %s' % path
         log.warning(msg)
@@ -74,7 +79,7 @@ def RegisterPlugin(path):
     main = None
     try:
         exec('main = %s.main' % module)
-    except Exception as e:
+    except Exception:
         msg = 'No "main" function found'
         msg += ' in %s' % path
         log.warning(msg)
@@ -112,18 +117,16 @@ class MyHandler(FileSystemEventHandler):
 
 
 def setup(plugins_folder):
-    file_path = os.path.dirname(__file__)
-    path = os.path.join(file_path, plugins_folder)
-    sys.path.append(path)
+    sys.path.append(plugins_folder)
 
-    for root, dirs, files in os.walk(path):
+    for root, dirs, files in os.walk(plugins_folder):
         for f in files:
             # importing plugin
             RegisterPlugin(os.path.join(root, f))
 
-    event_handler = MyHandler(file_path)
+    event_handler = MyHandler(plugins_folder)
     observer = Observer()
-    observer.schedule(event_handler, path, recursive=True)
+    observer.schedule(event_handler, plugins_folder, recursive=True)
     observer.start()
     try:
 

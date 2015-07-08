@@ -59,8 +59,12 @@ def RegisterPlugin(path):
 
     module_list = [parent, f[0]]
     module = '.'.join(module_list)
-    exec('import %s' % module)
-    exec('reload(%s)' % module)
+    try:
+        exec('import %s' % module)
+        exec('reload(%s)' % module)
+    except ImportError:
+        print 'module: ' + module + ' could not be imported'
+        return
 
     # checking for topic variable
     topic = None

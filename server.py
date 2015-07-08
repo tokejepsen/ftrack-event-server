@@ -117,9 +117,6 @@ class MyHandler(FileSystemEventHandler):
 
 
 def setup(plugins_folder):
-    # file_path = os.path.dirname(__file__)
-    # path = os.path.join(file_path, plugins_folder)
-
     sys.path.append(plugins_folder)
 
     for root, dirs, files in os.walk(plugins_folder):

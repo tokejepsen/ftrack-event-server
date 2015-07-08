@@ -9,7 +9,7 @@ import utils
 topic = 'ftrack.update'
 
 
-def callback(event):
+def main(event):
     """ This plugin sets the task status from the version status update.
     """
 
@@ -79,6 +79,3 @@ def callback(event):
                         log.error('%s status couldnt be set: %s' % (path, e))
                     else:
                         log.info('%s updated to "%s"' % (path, task_status.get('name')))
-
-def main(event):
-    callback(event)

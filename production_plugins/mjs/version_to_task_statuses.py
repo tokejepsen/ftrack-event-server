@@ -16,12 +16,14 @@ def callback(event):
     for entity in event['data'].get('entities', []):
 
         # Filter non-assetversions
-        if entity['entityType'] == 'assetversion' and entity['action'] == 'update' and (entity['keys'][0]=='statusid' or entity['keys'][0]=='ispublished'):
+        if (entity['entityType'] == 'assetversion' and
+                entity['action'] == 'update' and
+                (entity['keys'][0] == 'statusid' or
+                 entity['keys'][0] == 'ispublished')):
             version = ftrack.AssetVersion(id=entity.get('entityId'))
             version_status = version.getStatus()
             task = ftrack.Task(version.get('taskid'))
             task_status = None
-            assetType = version.getAsset().getType().getName()
 
             # Filter to versions with status change to "render queued"
             if version_status.get('name').lower() == 'pending review':
@@ -53,7 +55,6 @@ def callback(event):
 
                 task_status = utils.GetStatusByName('render failed')
 
-
             # Proceed if the task status was set
             if task_status:
                 # Get path to task
@@ -67,7 +68,9 @@ def callback(event):
                 except Exception as e:
                     log.error('%s status couldnt be set: %s' % (path, e))
                 else:
-                    log.info('%s updated to "%s"' % (path, task_status.get('name')))
+                    log.info('%s updated to "%s"' % (path,
+                                                     task_status.get('name')))
+
 
 def main(event):
     success = plugins_api.check_project(event, __file__)

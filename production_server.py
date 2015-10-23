@@ -6,5 +6,9 @@ sys.path.append(path)
 
 import server
 
-os.environ['LOGNAME'] = 'toke.jepsen'
-server.setup('production_plugins')
+plugin_path = sys.argv[1:]
+
+if not plugin_path:
+    plugin_path = os.environ['FTRACK_EVENT_SERVER_PLUGINS']
+
+server.setup(plugin_path)

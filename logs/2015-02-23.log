@@ -1,8 +1,0 @@
-2015-02-23 13:01:17,704 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
-2015-02-23 13:02:55,190 - server - INFO - Reloaded version_up
-2015-02-23 13:02:55,269 - server - INFO - Reloaded version_up
-2015-02-23 14:02:37,233 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>
-2015-02-23 15:32:32,352 - server - ERROR - Reload of ftrack_upload_action failed: u'ftrack_upload_action'
-2015-02-23 15:33:45,367 - server - ERROR - Reload of task_upload_movies failed: u'task_upload_movies'
-2015-02-23 15:33:45,372 - server - ERROR - Reload of task_upload_movies failed: u'task_upload_movies'
-2015-02-23 15:40:04,653 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>

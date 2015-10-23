@@ -1,1 +1,0 @@
-2015-02-16 17:42:31,173 - server - WARNING - InvalidType: Returned ids from {'module': <module 'dev_plugins.utils' from 'K:\tools\FTrack\ftrack-event-server\dev_plugins\utils.pyc'>}.register() was <type 'NoneType'>

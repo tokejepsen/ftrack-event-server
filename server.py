@@ -1,138 +1,99 @@
 import os
-import sys
+import threading
 import logging
-import time
-import datetime
-
-# setup logging
-format = '%(asctime)s - %(pathname)s - [%(levelname)s]: %(message)s'
-try:
-    logging.basicConfig(level=logging.INFO, format=format,
-                        filename='logs/%s.log' % datetime.date.today())
-except:
-    logging.basicConfig(level=logging.INFO)
-log = logging.getLogger()
-
-handler = logging.StreamHandler(stream=sys.stdout)
-formatter = logging.Formatter('%(pathname)s - [%(levelname)s]:\n%(message)s\n')
-handler.setFormatter(formatter)
-log.addHandler(handler)
-
-# dependencies
-path = os.path.dirname(__file__)
-sys.path.append(path)
-sys.path.append(r'K:\tools\FTrack\ftrack-api')
-sys.path.append(os.path.join(path, 'watchdog', 'src'))
-sys.path.append(os.path.join(path, 'pathtools'))
-
-import ftrack
-from watchdog.observers import Observer
-from watchdog.events import FileSystemEventHandler
-
-modules = {}
-
-ftrack.setup()
+import sys
+import ctypes
+import argparse
 
 
-def PurgePlugins(plugins_folder):
-    target_module = None
-    for m in modules:
-        filepath = os.path.join(plugins_folder, m.replace('.', os.sep))
-        filepath += '.py'
-        if not os.path.isfile(filepath):
-            target_module = m
+class LoggerWriter:
+    def __init__(self, logger, level):
+        self.logger = logger
+        self.level = level
 
-    if target_module:
-        ftrack.EVENT_HUB.unsubscribe(modules[target_module])
-        del modules[target_module]
-        log.info('Unloaded %s!' % target_module)
+    def write(self, message):
+        if message != '\n':
+            self.logger.log(self.level, message)
 
 
-def RegisterPlugin(path):
-    # filter out compiled python files and init files
-    f = os.path.splitext(os.path.basename(path))
-    if 'pyc' in f[1] or f[0] == '__init__':
-        return
-
-    root, parent = os.path.split(
-        os.path.abspath(os.path.join(path, os.pardir)))
-
-    module_list = [parent, f[0]]
-    module = '.'.join(module_list)
-    try:
-        exec('import %s' % module)
-        exec('reload(%s)' % module)
-    except ImportError:
-        print 'module: ' + module + ' could not be imported'
-        return
-
-    # checking for topic variable
-    topic = None
-    try:
-        exec('topic = %s.topic' % module)
-    except Exception:
-        msg = 'No "topic" variable found'
-        msg += ' in %s' % path
-        log.warning(msg)
-
-    # checking for main function
-    main = None
-    try:
-        exec('main = %s.main' % module)
-    except Exception:
-        msg = 'No "main" function found'
-        msg += ' in %s' % path
-        log.warning(msg)
-
-    # subscribing plugins
-    if topic and main:
-        if module in modules:
-            ftrack.EVENT_HUB.unsubscribe(modules[module])
-            del modules[module]
-            log.info('Unloaded %s!' % module)
-        id = ftrack.EVENT_HUB.subscribe('topic=%s' % topic, main)
-        modules[module] = id
-        log.info('Loaded %s!' % module)
+def _async_raise(tid, excobj):
+    res = ctypes.pythonapi.PyThreadState_SetAsyncExc(tid,
+                                                    ctypes.py_object(excobj))
+    if res == 0:
+        raise ValueError("nonexistent thread id")
+    elif res > 1:
+        # """if it returns a number greater than one, you're in trouble,
+        # and you should call it again with exc=NULL to revert the effect"""
+        ctypes.pythonapi.PyThreadState_SetAsyncExc(tid, 0)
+        raise SystemError("PyThreadState_SetAsyncExc failed")
 
 
-class MyHandler(FileSystemEventHandler):
+class EventThread(threading.Thread):
 
-    def __init__(self, plugins_folder):
-        super(MyHandler, self).__init__()
-        self.plugins_folder = plugins_folder
+    def __init__(self, path):
+        threading.Thread.__init__(self)
 
-    def on_modified(self, event):
-        if os.path.isfile(event.src_path):
-            try:
-                PurgePlugins(self.plugins_folder)
-                RegisterPlugin(event.src_path)
-            except Exception as e:
-                log.error(e)
+        self.path = path
 
-    def on_deleted(self, event):
-        try:
-            PurgePlugins(self.plugins_folder)
-        except Exception as e:
-            log.error(e)
+    def run(self):
+
+        with open(self.path) as f:
+            content = f.read()
+            exec(content)
+
+    def raise_exc(self, excobj):
+        assert self.isAlive(), "thread must be started"
+        for tid, tobj in threading._active.items():
+            if tobj is self:
+                _async_raise(tid, excobj)
+                return
+
+        # the thread was alive when we entered the loop, but was not found
+        # in the dict, hence it must have been already terminated. should we raise
+        # an exception here? silently ignore?
+
+    def terminate(self):
+        # must raise the SystemExit type, instead of a SystemExit() instance
+        # due to a bug in PyThreadState_SetAsyncExc
+        self.raise_exc(SystemExit)
 
 
-def setup(plugins_folder):
-    sys.path.append(plugins_folder)
+def main():
 
-    for root, dirs, files in os.walk(plugins_folder):
-        for f in files:
-            # importing plugin
-            RegisterPlugin(os.path.join(root, f))
+    # setup logging
+    format = '%(asctime)s - %(pathname)s:\n%(message)s'
+    logging.basicConfig(level=logging.INFO, format=format)
+    sys.stdout = LoggerWriter(logging.getLogger(), logging.INFO)
 
-    event_handler = MyHandler(plugins_folder)
-    observer = Observer()
-    observer.schedule(event_handler, plugins_folder, recursive=True)
-    observer.start()
-    try:
+    # getting plugins
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--path", action="append")
 
-        ftrack.EVENT_HUB.wait()
-        while True:
-            time.sleep(1)
-    except KeyboardInterrupt:
-        observer.stop()
-    observer.join()
+    data = parser.parse_args(sys.argv[1:])
+    paths = []
+    for arg in data.path:
+        if os.path.isdir(arg):
+            result = [os.path.join(dp, f) for dp, dn, filenames in os.walk(arg)
+                        for f in filenames if os.path.splitext(f)[1] == '.py']
+            paths.extend(result)
+
+        if os.path.isfile(arg):
+            paths.append(arg)
+
+    if not paths:
+        path = os.environ['FTRACK_EVENT_SERVER_PLUGINS']
+        paths = [os.path.join(dp, f) for dp, dn, filenames in os.walk(path)
+                    for f in filenames if os.path.splitext(f)[1] == '.py']
+
+    paths = list(set(paths))
+
+    # starting event plugins
+    threads = {}
+    for path in paths:
+        t = EventThread(path)
+        t.start()
+        threads[path] = t
+
+
+if __name__ == '__main__':
+    main()

@@ -1,43 +1,27 @@
-####Writing plugins####
+**Goal**
 
-- all plugin folders need to have `__init__.py`
-- all plugins need to have this structure:
+To ease the usage of Ftracks event plugins.
 
-```python
-import logging
+**Motivation**
 
-log = logging.getLogger()
+Currently you can write event plugins, and run them individually, which can be difficult to manage.
+Along with having to manage the execution of each plugin, feedback are scattering over multiple terminals.
 
-import ftrack
-import plugins_api
+**Usage**
 
-topic = 'ftrack.update'
+You can write the event plugins exactly how Ftrack documents you to do; http://ftrack-python-api.rtd.ftrack.com/en/latest/handling_events.html
 
+You can test your plugin by just running it individually. When you have collect two or more plugins that you want to run at the same time, you have two options.
 
-def callback(event):
-    # update task when version is updated
-    for entity in event['data'].get('entities', []):
-
-        # update thumbnail with first parent thumbnail
-        if entity['entityType'] == 'task' and entity['action'] == 'update':
-            log.info('Calling from a project!')
-
-
-def main(event):
-    success = plugins_api.check_project(event, __file__)
-    if success:
-        callback(event)
+- Pass the directories of the plugins.
 ```
-
-In case you don't wont the plugin to be filtered by project, rename your `callback` method to `main` and remove the last four lines from the example (so you don't have 2 `main` methods in the plugin.)
-
-####Registering plugins####
-To register plugins with the event server you have 2 options:
-- create environment variable named `FTRACK_EVENT_SERVER_PLUGINS` which points to the root folder with your plugins
-- pass the absolute path to the plugin folder as an argument when running the server
-Plugin folder passed as an argument always takes priority, so you can use it as an override for the environment variable. This can be usefull for temporarily loading development plugins for example.
+python ftrack-event-server/server.py PATH/TO/A/PLUGIN PATH/TO/OTHER/PLUGINS
+```
+ - ftrack-event-server will look for all python scripts in a directory, and execute them.
 
 
-####Setting up server####
-
-To be able to run the server you need to have properly configured ftrack api on your system. To do that you can follow [ftrack api documentation](http://ftrack.rtd.ftrack.com/en/latest/developing/getting_started.html)
+- Setup ```FTRACK_EVENT_SERVER_PLUGINS``` to the directories of the plugins.
+```
+set FTRACK_EVENT_SERVER_PLUGINS=PATH/TO/A/PLUGIN;PATH/TO/OTHER/PLUGINS
+python ftrack-event-server/server.py
+```

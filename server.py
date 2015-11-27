@@ -7,6 +7,7 @@ import os
 import multiprocessing
 import logging
 import sys
+import traceback
 
 
 class StreamToLogger(object):
@@ -16,8 +17,8 @@ class StreamToLogger(object):
         self.linebuf = ''
 
     def write(self, buf):
-        for line in buf.rstrip().splitlines():
-            self.logger.log(self.log_level, line.rstrip())
+        if buf != '\n':
+            self.logger.log(self.log_level, buf)
 
     def flush(self):
         pass
@@ -38,17 +39,12 @@ class JobProcess(multiprocessing.Process):
         thread_logger = logging.getLogger(self.name)
         sys.stdout = StreamToLogger(thread_logger, logging.INFO)
         sys.stderr = StreamToLogger(thread_logger, logging.ERROR)
-        thread_logger.info("Starting " + self.name + "...")
         sys.path.append(os.path.dirname(self.path))
-        execfile(self.path, {'__file__': self.path})
 
-
-def run(path):
-
-    logging.basicConfig(level=logging.INFO, format=format)
-    sys.stdout = LoggerWriter(logging.getLogger(), logging.INFO)
-    sys.path.append(os.path.dirname(path))
-    execfile(path, {'__file__': path})
+        try:
+            execfile(self.path, {'__file__': self.path})
+        except:
+            print traceback.format_exc()
 
 
 def main():
@@ -76,6 +72,9 @@ def main():
     for path in paths:
         t = JobProcess(path, path)
         t.start()
+
+    while True:
+        pass
 
 
 if __name__ == '__main__':

@@ -18,6 +18,7 @@ You can test your plugin by just running it individually. When you have collect 
 python ftrack-event-server/server.py PATH/TO/A/PLUGIN PATH/TO/OTHER/PLUGINS
 ```
  - ftrack-event-server will look for all python scripts in a directory, and execute them.
+ - You can either pass in a directory or the file path.
 
 
 - Setup ```FTRACK_EVENT_SERVER_PLUGINS``` to the directories of the plugins.

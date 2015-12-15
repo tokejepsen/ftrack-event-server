@@ -27,6 +27,8 @@ set FTRACK_EVENT_SERVER_PLUGINS=PATH/TO/A/PLUGIN;PATH/TO/OTHER/PLUGINS
 python ftrack-event-server/server.py
 ```
 
+You can configure the required environment variables ```FTRACK_SERVER```, ```FTRACK_API_USER```, ```LOGNAME``` and ```FTRACK_API_KEY```, in ```config.py```.
+
 **Examples**
 
 https://github.com/tokejepsen/ftrack-event-plugins

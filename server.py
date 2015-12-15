@@ -9,6 +9,18 @@ import logging
 import sys
 import traceback
 
+import config
+
+
+# setup environment
+try:
+    os.environ['FTRACK_SERVER'] = config.server_url
+    os.environ['FTRACK_API_USER'] = config.user
+    os.environ['LOGNAME'] = config.user
+    os.environ['FTRACK_API_KEY'] = config.api_key
+except:
+    print traceback.format_exc
+
 
 class StreamToLogger(object):
     def __init__(self, logger, log_level=logging.INFO):
@@ -55,7 +67,7 @@ def main():
     for arg in args:
         if os.path.isdir(arg):
             result = [os.path.join(dp, f) for dp, dn, filenames in os.walk(arg)
-                        for f in filenames if os.path.splitext(f)[1] == '.py']
+                      for f in filenames if os.path.splitext(f)[1] == '.py']
             paths.extend(result)
 
         if os.path.isfile(arg):
@@ -64,7 +76,7 @@ def main():
     if not paths:
         path = os.environ['FTRACK_EVENT_SERVER_PLUGINS']
         paths = [os.path.join(dp, f) for dp, dn, filenames in os.walk(path)
-                    for f in filenames if os.path.splitext(f)[1] == '.py']
+                 for f in filenames if os.path.splitext(f)[1] == '.py']
 
     paths = list(set(paths))
 

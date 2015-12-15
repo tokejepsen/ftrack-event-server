@@ -26,3 +26,7 @@ python ftrack-event-server/server.py PATH/TO/A/PLUGIN PATH/TO/OTHER/PLUGINS
 set FTRACK_EVENT_SERVER_PLUGINS=PATH/TO/A/PLUGIN;PATH/TO/OTHER/PLUGINS
 python ftrack-event-server/server.py
 ```
+
+**Examples**
+
+https://github.com/tokejepsen/ftrack-event-plugins

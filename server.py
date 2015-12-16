@@ -9,11 +9,11 @@ import logging
 import sys
 import traceback
 
-import config
-
 
 # setup environment
 try:
+    import config
+
     os.environ['FTRACK_SERVER'] = config.server_url
     os.environ['FTRACK_API_USER'] = config.user
     os.environ['LOGNAME'] = config.user

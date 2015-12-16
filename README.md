@@ -7,6 +7,18 @@ To ease the usage of Ftracks event plugins.
 Currently you can write event plugins, and run them individually, which can be difficult to manage.
 Along with having to manage the execution of each plugin, feedback are scattering over multiple terminals.
 
+**Setup**
+
+If you are running the old ftrack API, and your login name matches you ftrack login name, you won't need to setup anything. If this is not the case you'll need to configure these environment variables; ```FTRACK_SERVER```, ```FTRACK_API_USER```, ```LOGNAME``` and ```FTRACK_API_KEY```.
+
+You can either configure these environment variables prior to launching the ```server.py```, or you can create a ```config.py``` next to ```server.py```.
+The ```config.py``` structure looks like this;
+```python
+server_url = 'http://mycompany.ftrackapp.com'
+api_key = '7545384e-a653-11e1-a82c-f22c11dd25eq'
+api_user = 'martin'
+```
+
 **Usage**
 
 You can write the event plugins exactly how Ftrack documents you to do; http://ftrack-python-api.rtd.ftrack.com/en/latest/handling_events.html
@@ -26,8 +38,6 @@ python ftrack-event-server/server.py PATH/TO/A/PLUGIN PATH/TO/OTHER/PLUGINS
 set FTRACK_EVENT_SERVER_PLUGINS=PATH/TO/A/PLUGIN;PATH/TO/OTHER/PLUGINS
 python ftrack-event-server/server.py
 ```
-
-You can configure the required environment variables ```FTRACK_SERVER```, ```FTRACK_API_USER```, ```LOGNAME``` and ```FTRACK_API_KEY```, in ```config.py```.
 
 **Examples**
 
